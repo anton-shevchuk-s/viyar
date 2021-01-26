@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-01-25 21:21:20" orderDate="" productFilter="false">
+  <viyar version="24">
+    <user name="Шевчук Антон Сергеевич" phone="0663367434" email="84@ua.fm" uuid="" fileName="shponirovanaya_plita_2021-01-25_16-49-50" ZakazBazar=""/>
+    <order delivery="d" uuid=""/>
+    <constructor id="dsp" fromTumbariki="" site="viyar.ua" city="kiev" xnc="0" robot="G"/>
+    <materials>
+      <material id="1" type="sheet" offcut_l="20" offcut_t="20" offcut_r="20" offcut_b="20" userOffcut="0" directCut="0" article="69059" typeMat="shponirovanaya_plita" guid="241020" oldGuid="241020" uuid="a8ffb7f0-1063-11ea-a56a-005056b13af7" name="МДФ Дуб Класический Тангентал/Дуб Класический Тангентал 2800х1300х18-18,5мм" width="2800" height="1300" thickness="18" isCliental="0">
+        <parts/>
+      </material>
+    </materials>
+    <details edge="LazerPur" typeEdge="edge">
+      <detail id="1" material="1" barcode="" amount="1" width="968.0" height="424.0" description="T0" slidingfilling="0" timestamp="1611582650" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="2" material="1" barcode="" amount="1" width="968.0" height="424.0" description="T1" slidingfilling="0" timestamp="1611582659" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="3" material="1" barcode="" amount="1" width="118.0" height="852.0" description="T2" slidingfilling="0" timestamp="1611582700" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="4" material="1" barcode="" amount="1" width="322.0" height="150.0" description="Vz0" slidingfilling="0" timestamp="1611589746" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="5" material="1" barcode="" amount="1" width="322.0" height="150.0" description="Vz1" slidingfilling="0" timestamp="1611589768" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="6" material="1" barcode="" amount="1" width="322.0" height="170.0" description="Vz2" slidingfilling="0" timestamp="1611589789" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="7" material="1" barcode="" amount="1" width="322.0" height="170.0" description="Vz3" slidingfilling="0" timestamp="1611589820" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="8" material="1" barcode="" amount="1" width="468.0" height="322.0" description="Vy0" slidingfilling="0" timestamp="1611589859" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="9" material="1" barcode="" amount="1" width="214.0" height="322.0" description="Vy1" slidingfilling="0" timestamp="1611589869" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="10" material="1" barcode="" amount="1" width="736.0" height="356.0" description="V0" slidingfilling="0" timestamp="1611589899" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="11" material="1" barcode="" amount="2" width="314.0" height="98.0" description="W0" slidingfilling="0" timestamp="1611593700" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="12" material="1" barcode="" amount="2" width="314.0" height="394.0" description="W1" slidingfilling="0" timestamp="1611593708" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="13" material="1" barcode="" amount="2" width="314.0" height="894.0" description="W2" slidingfilling="0" timestamp="1611593731" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="14" material="1" barcode="" amount="1" width="638.0" height="478.0" description="W6" slidingfilling="0" timestamp="1611593821" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="15" material="1" barcode="" amount="1" width="830.0" height="1249.0" description="FK" slidingfilling="0" timestamp="1611594993" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="16" material="1" barcode="" amount="2" width="830.0" height="250.0" description="KQ" slidingfilling="0" timestamp="1611595100" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="17" material="1" barcode="" amount="1" width="1798.0" height="371.0" description="Y0" slidingfilling="0" timestamp="1611596443" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+      <detail id="18" material="1" barcode="" amount="6" width="896.0" height="226.0" description="YD" slidingfilling="0" timestamp="1611596874" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </face>
+          <rear grinding="0" beits="0">
+            <cover type="0" art=""/>
+          </rear>
+        </plays>
+        <operations/>
+      </detail>
+    </details>
+    <products/>
+  </viyar>
+</project>

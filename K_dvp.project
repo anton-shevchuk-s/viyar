@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-01-24 22:16:09" orderDate="" productFilter="false">
+  <viyar version="24">
+    <user name="Шевчук Антон Сергеевич" phone="0663367434" email="84@ua.fm" uuid="" fileName="dvp_2021-01-24_22-04-59" ZakazBazar=""/>
+    <order delivery="d" uuid=""/>
+    <constructor id="dsp" fromTumbariki="" site="viyar.ua" city="kiev" xnc="0" robot="G"/>
+    <materials>
+      <material id="1" type="sheet" offcut_l="5" offcut_t="5" offcut_r="5" offcut_b="5" userOffcut="0" directCut="0" article="66264" typeMat="dvp" guid="179012" oldGuid="179012" uuid="5d9cf12d-c8d9-11e9-a56a-005056b13af7" name="ЛХДФ Антрацит 0164  Kronospan 2800х2070х3мм" width="2800" height="2070" thickness="3" isCliental="0">
+        <parts/>
+      </material>
+    </materials>
+    <details edge="LazerPur" typeEdge="edge">
+      <detail id="1" material="1" barcode="" amount="1" width="508.0" height="487.0" description="Q" slidingfilling="0" timestamp="1611515173" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="2" material="1" barcode="" amount="1" width="1135.0" height="600.0" description="D" slidingfilling="0" timestamp="1611515240" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="3" material="1" barcode="" amount="1" width="896.0" height="570.0" description="E" slidingfilling="0" timestamp="1611515298" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="4" material="1" barcode="" amount="1" width="225.0" height="652.0" description="J0" slidingfilling="0" timestamp="1611515395" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="5" material="1" barcode="" amount="1" width="907.0" height="327.0" description="J1" slidingfilling="0" timestamp="1611515460" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="6" material="1" barcode="" amount="1" width="615.0" height="985.0" description="L" slidingfilling="0" timestamp="1611515555" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="7" material="1" barcode="" amount="1" width="578.0" height="278.0" description="M" slidingfilling="0" timestamp="1611515623" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="8" material="1" barcode="" amount="1" width="985.0" height="377.0" description="N0" slidingfilling="0" timestamp="1611515671" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="9" material="1" barcode="" amount="1" width="985.0" height="489.0" description="N1" slidingfilling="0" timestamp="1611515692" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="10" material="1" barcode="" amount="1" width="728.0" height="196.0" description="P" slidingfilling="0" timestamp="1611515736" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+    </details>
+    <products/>
+  </viyar>
+</project>

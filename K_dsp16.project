@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-01-26 10:12:06" orderDate="" productFilter="false">
+  <viyar version="24">
+    <user name="Шевчук Антон Сергеевич" phone="0663367434" email="84@ua.fm" uuid="" fileName="K_dsp16" ZakazBazar=""/>
+    <order delivery="d" uuid=""/>
+    <constructor id="dsp" fromTumbariki="" site="viyar.ua" city="kiev" xnc="0" robot="G"/>
+    <materials>
+      <material id="1" type="sheet" offcut_l="10" offcut_t="10" offcut_r="10" offcut_b="10" userOffcut="0" directCut="0" article="28848" typeMat="dsp" guid="72624" oldGuid="72624" uuid="de902725-138d-11e6-83c4-005056b13af7" name="ДСП Kronospan 0162 PE Серый графит 2800x2070x16 мм" width="2800" height="2070" thickness="16" isCliental="0">
+        <parts/>
+      </material>
+      <material id="2" type="band" article="55969" guid="122312" oldGuid="122312" uuid="642806a5-ed69-11e8-ae64-005056b13af7" name="95740 Кромка ABS Темно-серый РЕ414 22х0,4мм (300 м.п.) REHAU" height="22" thickness="0.5" markingColor="rgb(255,0,0)"/>
+    </materials>
+    <details edge="LazerPur" typeEdge="edge">
+      <detail id="1" material="1" barcode="" amount="1" width="788" height="475" description="EzB0" slidingfilling="0" timestamp="1611514427" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="2" material="1" barcode="" amount="2" width="788" height="525" description="EzB1" slidingfilling="0" timestamp="1611514444" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="3" material="1" barcode="" amount="1" width="776" height="83" description="EyB0" slidingfilling="0" timestamp="1611514464" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="4" material="1" barcode="" amount="1" width="776" height="115" description="EyB1" slidingfilling="0" timestamp="1611514474" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="5" material="1" barcode="" amount="1" width="776" height="198" description="EyB2" slidingfilling="0" timestamp="1611514483" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="6" material="1" barcode="" amount="3" width="688" height="425" description="GzB0" slidingfilling="0" timestamp="1611514743" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="7" material="1" barcode="" amount="2" width="676" height="115" description="GyB0" slidingfilling="0" timestamp="1611514767" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="8" material="1" barcode="" amount="1" width="676" height="198" description="GyB2" slidingfilling="0" timestamp="1611514777" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="9" material="1" barcode="" amount="2" width="459.0" height="498.0" description="Sim_B" slidingfilling="0" timestamp="1611645053" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="10" material="1" barcode="" amount="1" width="370.0" height="962.0" description="Sim_C" slidingfilling="0" timestamp="1611645077" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+    </details>
+    <products/>
+  </viyar>
+</project>
