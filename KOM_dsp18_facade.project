@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-01-31 21:07:50" orderDate="" productFilter="false">
+  <viyar version="24">
+    <user name="Шевчук Антон Сергеевич" phone="0663367434" email="84@ua.fm" uuid="" fileName="dsp_2021-01-31_20-43-03" ZakazBazar=""/>
+    <order delivery="d" uuid=""/>
+    <constructor id="dsp" fromTumbariki="" site="viyar.ua" city="kiev" xnc="0" robot="G"/>
+    <materials>
+      <material id="1" type="sheet" offcut_l="10" offcut_t="10" offcut_r="5" offcut_b="5" userOffcut="0" directCut="0" article="71227" typeMat="dsp" guid="220643" oldGuid="220643" uuid="d612ee33-36c4-11ea-9f85-005056b13af7" name="ДСП SAVIOLA Topmat/Topmat AP2 Серый 2800х2120х18 мм" width="2800" height="2120" thickness="18" isCliental="0">
+        <parts/>
+      </material>
+      <material id="2" type="band" article="40511" guid="81269" oldGuid="81269" uuid="37ddd386-8100-11e7-a118-005056b13af7" name="78114 Кромка ЛАЗЕРНАЯ ABS PRO Серый камень 23х0,8мм (150 м.п.) REHAU" height="23" thickness="0.8" markingColor="rgb(0,255,0)"/>
+      <material id="3" type="band" article="40273" guid="82892" oldGuid="82892" uuid="2af41433-7cf3-11e7-a7a6-005056b13af7" name="78114 Кромка ЛАЗЕРНАЯ ABS PRO Серый камень 23х2мм (100 м.п.) REHAU" height="23" thickness="2" markingColor="rgb(0,0,255)"/>
+    </materials>
+    <details edge="LazerPur" typeEdge="edge">
+      <detail id="1" material="1" barcode="" amount="2" width="706.0" height="456.0" description="K_Side" slidingfilling="0" timestamp="1612115082" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="2" material="1" barcode="" amount="1" width="1799.0" height="706.0" description="K_Rear" slidingfilling="0" timestamp="1612115112" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="3" material="1" barcode="" amount="1" width="652.0" height="403.0" description="K_Central" slidingfilling="0" timestamp="1612115319" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="4" material="1" barcode="" amount="1" width="1799.0" height="403.0" description="K_Bottom" slidingfilling="0" timestamp="1612115348" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="5" material="1" barcode="" amount="1" width="958.0" height="477.0" description="R_Rear" slidingfilling="0" timestamp="1612116115" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="6" material="1" barcode="" amount="4" width="477.0" height="506.0" description="RL_Side" slidingfilling="0" timestamp="1612116147" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="7" material="1" barcode="" amount="1" width="478.0" height="477.0" description="L_Rear" slidingfilling="0" timestamp="1612116260" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="8" material="1" barcode="" amount="1" width="378.0" height="453.0" description="R_Middle" slidingfilling="0" timestamp="1612116305" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="9" material="1" barcode="" amount="1" width="958.0" height="453.0" description="R_Bottom" slidingfilling="0" timestamp="1612116322" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="10" material="1" barcode="" amount="1" width="478.0" height="453.0" description="L_Bottom" slidingfilling="0" timestamp="1612116332" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+    </details>
+    <products/>
+  </viyar>
+</project>

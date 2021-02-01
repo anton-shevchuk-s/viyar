@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="WINDOWS-1251"?>
-<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-01-25 21:33:53" orderDate="" productFilter="false">
+<project currency="РіСЂРЅ" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-01-31 21:10:25" orderDate="" productFilter="false">
   <viyar version="24">
-    <user name="Шевчук Антон Сергеевич" phone="0663367434" email="84@ua.fm" uuid="" fileName="K_mdf_D" ZakazBazar=""/>
+    <user name="РЁРµРІС‡СѓРє РђРЅС‚РѕРЅ РЎРµСЂРіРµРµРІРёС‡" phone="0663367434" email="84@ua.fm" uuid="" fileName="K_mdf_D" ZakazBazar=""/>
     <order delivery="d" uuid=""/>
     <constructor id="dsp" fromTumbariki="" site="viyar.ua" city="kiev" xnc="1"/>
     <materials>
-      <material id="1" type="sheet" offcut_l="10" offcut_t="10" offcut_r="5" offcut_b="5" userOffcut="0" directCut="0" article="72928" typeMat="mdf" guid="347079" oldGuid="347079" uuid="e595716a-5190-11ea-9f85-005056b13af7" name="МДФ AGT 3014 Облако серый супермат/двухсторонний 2800х1220х18мм" width="2800" height="1220" thickness="18" isCliental="0">
+      <material id="1" type="sheet" offcut_l="10" offcut_t="10" offcut_r="5" offcut_b="5" userOffcut="0" directCut="0" article="72928" typeMat="mdf" guid="347079" oldGuid="347079" uuid="e595716a-5190-11ea-9f85-005056b13af7" name="РњР”Р¤ AGT 3014 РћР±Р»Р°РєРѕ СЃРµСЂС‹Р№ СЃСѓРїРµСЂРјР°С‚/РґРІСѓС…СЃС‚РѕСЂРѕРЅРЅРёР№ 2800С…1220С…18РјРј" width="2800" height="1220" thickness="18" isCliental="0">
         <parts/>
       </material>
-      <material id="2" type="band" article="74093" guid="377758" oldGuid="377758" uuid="41b1918e-5e24-11ea-9f85-005056b13af7" name="Кромка 3014 ABS Облако серый матовый 22*1мм (100 м.п.) AGT" height="22" thickness="1" markingColor="rgb(0,255,0)"/>
+      <material id="2" type="band" article="74093" guid="377758" oldGuid="377758" uuid="41b1918e-5e24-11ea-9f85-005056b13af7" name="РљСЂРѕРјРєР° 3014 ABS РћР±Р»Р°РєРѕ СЃРµСЂС‹Р№ РјР°С‚РѕРІС‹Р№ 22*1РјРј (100 Рј.Рї.) AGT" height="22" thickness="1" markingColor="rgb(0,255,0)"/>
     </materials>
     <details edge="LazerPur" typeEdge="edge">
       <detail id="1" material="1" barcode="" amount="1" width="73" height="2343" description="A3" slidingfilling="0" timestamp="1610150526" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
@@ -302,30 +302,6 @@
           <operation id="8" type="drilling" subtype="2" side="1" x="229" y="109" xo="229" yo="109" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
           <operation id="9" type="drilling" subtype="17" side="1" x="261" y="109" xo="261" yo="109" xl="0" yl="0" d="8" depth="12" millD="0"/>
         </operations>
-      </detail>
-      <detail id="24" material="1" barcode="" amount="1" width="1798.0" height="374.0" description="Y0" slidingfilling="0" timestamp="1611599215" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
-        <edges joint="0">
-          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-        </edges>
-      </detail>
-      <detail id="25" material="1" barcode="" amount="2" width="428.0" height="738.0" description="YS" slidingfilling="0" timestamp="1611599255" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
-        <edges joint="0">
-          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-        </edges>
-      </detail>
-      <detail id="26" material="1" barcode="" amount="1" width="1798.0" height="128" description="YB" slidingfilling="0" timestamp="1611599360" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
-        <edges joint="0">
-          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-        </edges>
       </detail>
     </details>
     <products/>

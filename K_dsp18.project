@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="WINDOWS-1251"?>
-<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-01-28 02:48:53" orderDate="" productFilter="false">
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-02-01 03:02:22" orderDate="" productFilter="false">
   <viyar version="24">
     <user name="Шевчук Антон Сергеевич" phone="0663367434" email="84@ua.fm" uuid="" fileName="K_dsp18" ZakazBazar=""/>
     <order delivery="d" uuid=""/>
@@ -12,7 +12,7 @@
       <material id="3" type="band" article="16522" guid="79973" oldGuid="79973" uuid="61231bf1-5368-11e4-9b3e-000c29430d31" name="76966 Кромка ABS Антрацит 23х2мм (100 м.п.) REHAU" height="23" thickness="2" markingColor="rgb(0,0,255)"/>
     </materials>
     <details edge="LazerPur" typeEdge="edge">
-      <detail id="1" material="1" barcode="" amount="1" width="324" height="731" description="Dx0" slidingfilling="0" timestamp="1610322376" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="1" material="1" barcode="" amount="1" width="366" height="99" description="Hx2" slidingfilling="0" timestamp="1610322409" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -20,147 +20,22 @@
           <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
-          <operation id="1" type="drilling" subtype="48" side="6" x="267" y="723" xo="58" yo="9" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="2" type="drilling" subtype="48" side="6" x="179" y="723" xo="146" yo="9" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="3" type="drilling" subtype="48" side="6" x="316" y="702" xo="9" yo="30" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="4" type="drilling" subtype="48" side="6" x="316" y="662" xo="9" yo="70" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="5" type="drilling" subtype="48" side="6" x="302" y="59" xo="23" yo="59" xl="w" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="6" type="drilling" subtype="48" side="6" x="263" y="59" xo="62" yo="59" xl="w" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="7" type="drilling" subtype="48" side="6" x="231" y="31.5" xo="94" yo="31.5" xl="w" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="8" type="drilling" subtype="48" side="6" x="182" y="9" xo="143" yo="9" xl="w" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="9" type="drilling" subtype="48" side="6" x="97" y="9" xo="228" yo="9" xl="w" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="10" type="drilling" subtype="48" side="6" x="64" y="682" xo="261" yo="50" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="11" type="drilling" subtype="48" side="6" x="64" y="366" xo="261" yo="366" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="12" type="drilling" subtype="48" side="6" x="64" y="50" xo="261" yo="682" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="13" type="drilling" subtype="48" side="6" x="9" y="662" xo="9" yo="70" xl="0" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="14" type="drilling" subtype="48" side="6" x="9" y="702" xo="9" yo="30" xl="0" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="15" type="drilling" subtype="48" side="6" x="9" y="70" xo="9" yo="70" xl="0" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="16" type="drilling" subtype="48" side="6" x="9" y="30" xo="9" yo="30" xl="0" yl="0" d="7" depth="30" millD="0"/>
+          <operation id="1" type="clipping" cutHSize="257.5" cutVSize="0" cutHBase="2" edgeMaterialH="2" edgeLengthH="" cutVBase="" edgeMaterialV="" edgeLengthV=""/>
+          <operation id="2" type="drilling" subtype="2" side="1" x="171.0" y="91" xo="171.0" yo="9.0" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="3" type="drilling" subtype="17" side="1" x="139" y="91" xo="139" yo="9.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="4" type="drilling" subtype="17" side="1" x="203" y="91" xo="203" yo="9.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="5" type="drilling" subtype="2" side="6" x="64.0" y="91" xo="64.0" yo="9.0" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="6" type="drilling" subtype="17" side="6" x="96" y="91" xo="96" yo="9.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="7" type="drilling" subtype="2" side="6" x="219.0" y="91" xo="219.0" yo="9.0" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="8" type="drilling" subtype="17" side="6" x="187" y="91" xo="187" yo="9.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="9" type="drilling" subtype="17" side="6" x="251" y="91" xo="251" yo="9.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="10" type="drilling" subtype="15" side="2" x="9" y="30" xo="9" yo="70.0" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="11" type="drilling" subtype="5" side="6" x="34" y="30" xo="34" yo="70.0" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="12" type="drilling" subtype="5" side="6" x="224" y="30" xo="224" yo="30" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="13" type="cornerOperation" corner="2" subtype="3" x="28" y="49.5" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="2" material="1" barcode="" amount="1" width="361" height="99" description="Dx1" slidingfilling="0" timestamp="1610322409" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
-        <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-        </edges>
-        <operations>
-          <operation id="1" type="clipping" cutHSize="251.5" cutVSize="0" cutHBase="2" edgeMaterialH="2" edgeLengthH="" cutVBase="" edgeMaterialV="" edgeLengthV=""/>
-          <operation id="2" type="drilling" subtype="48" side="6" x="122" y="91" xo="122" yo="9" xl="0" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="3" type="drilling" subtype="48" side="6" x="210" y="91" xo="210" yo="9" xl="0" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="4" type="drilling" subtype="2" side="6" x="9" y="26" xo="9" yo="74" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
-          <operation id="5" type="cornerOperation" corner="2" subtype="3" x="28" y="49.5" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
-        </operations>
-      </detail>
-      <detail id="3" material="1" barcode="" amount="1" width="265.5" height="731" description="Dx2" slidingfilling="0" timestamp="1610322487" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
-        <edges joint="0">
-          <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-        </edges>
-        <operations>
-          <operation id="1" type="drilling" subtype="48" side="1" x="259" y="702" xo="9" yo="30" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="2" type="drilling" subtype="48" side="1" x="259" y="662" xo="9" yo="70" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="3" type="drilling" subtype="48" side="1" x="245" y="59" xo="23" yo="59" xl="w" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="4" type="drilling" subtype="48" side="1" x="206" y="59" xo="62" yo="59" xl="w" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="5" type="drilling" subtype="48" side="1" x="174" y="31.5" xo="94" yo="31.5" xl="w" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="6" type="drilling" subtype="48" side="1" x="40" y="9" xo="40" yo="9" xl="0" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="7" type="drilling" subtype="48" side="1" x="125" y="9" xo="125" yo="9" xl="0" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="8" type="drilling" subtype="48" side="1" x="210" y="723" xo="58" yo="9" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="9" type="drilling" subtype="48" side="1" x="122" y="723" xo="146" yo="9" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="10" type="cornerOperation" corner="2" subtype="3" x="26" y="49.5" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
-        </operations>
-      </detail>
-      <detail id="4" material="1" barcode="" amount="1" width="125" height="731" description="Dx3" slidingfilling="0" timestamp="1610322529" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
-        <edges joint="0">
-          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-        </edges>
-        <operations>
-          <operation id="1" type="clipping" cutHSize="54.5" cutVSize="0" cutHBase="4" edgeMaterialH="2" edgeLengthH="" cutVBase="" edgeMaterialV="" edgeLengthV=""/>
-          <operation id="2" type="drilling" subtype="12" side="4" x="9" y="682" xo="9" yo="50" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="3" type="drilling" subtype="12" side="4" x="9" y="366" xo="9" yo="366" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="4" type="drilling" subtype="12" side="4" x="9" y="50" xo="9" yo="682" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="5" type="drilling" subtype="48" side="1" x="79.5" y="702" xo="46" yo="30" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="6" type="drilling" subtype="48" side="1" x="79.5" y="662" xo="46" yo="70" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="7" type="drilling" subtype="48" side="1" x="79.5" y="30" xo="46" yo="30" xl="w" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="8" type="drilling" subtype="48" side="1" x="79.5" y="70" xo="46" yo="70" xl="w" yl="0" d="7" depth="30" millD="0"/>
-        </operations>
-      </detail>
-      <detail id="5" material="1" barcode="" amount="1" width="517" height="713" description="Dy0" slidingfilling="0" timestamp="1610322608" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
-        <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-        </edges>
-        <operations>
-          <operation id="1" type="drilling" subtype="5" side="6" x="484" y="640" xo="34" yo="74" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
-          <operation id="2" type="drilling" subtype="15" side="4" x="9" y="640" xo="9" yo="74" xl="0" yl="h" d="8" depth="33" millD="0"/>
-          <operation id="3" type="drilling" subtype="48" side="6" x="408" y="664" xo="408" yo="50" xl="0" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="4" type="drilling" subtype="48" side="6" x="408" y="348" xo="408" yo="366" xl="0" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="5" type="drilling" subtype="48" side="6" x="408" y="32" xo="408" yo="682" xl="0" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="6" type="drilling" subtype="12" side="2" x="9" y="664" xo="9" yo="50" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="7" type="drilling" subtype="12" side="2" x="9" y="348" xo="9" yo="366" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="8" type="drilling" subtype="12" side="2" x="9" y="32" xo="9" yo="682" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="9" type="drilling" subtype="5" side="6" x="64" y="34" xo="64" yo="34" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
-          <operation id="10" type="drilling" subtype="5" side="6" x="440" y="34" xo="440" yo="34" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
-          <operation id="11" type="drilling" subtype="15" side="5" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
-          <operation id="12" type="drilling" subtype="15" side="5" x="440" y="9" xo="440" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
-          <operation id="13" type="drilling" subtype="18" side="5" x="408" y="9" xo="408" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
-          <operation id="14" type="drilling" subtype="18" side="5" x="96" y="9" xo="96" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
-          <operation id="15" type="cornerOperation" corner="3" subtype="3" x="46.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
-          <operation id="16" type="cornerOperation" corner="4" subtype="3" x="46.5" y="112" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
-          <operation id="17" type="shapeByPattern" patternId="uShaped" edgeId="4" ext="0" shift="383" sizeH="46.5" sizeV="200" radius="10" edgeMaterial="2"/>
-        </operations>
-      </detail>
-      <detail id="6" material="1" barcode="" amount="1" width="1102" height="70.5" description="Dy1" slidingfilling="0" timestamp="1610322693" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
-        <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-        </edges>
-        <operations>
-          <operation id="1" type="drilling" subtype="12" side="2" x="9" y="36.5" xo="9" yo="36.5" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="2" type="drilling" subtype="12" side="4" x="9" y="36.5" xo="9" yo="36.5" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="3" type="drilling" subtype="2" side="6" x="54" y="64" xo="54" yo="9" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
-          <operation id="4" type="drilling" subtype="2" side="6" x="354" y="64" xo="354" yo="9" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
-          <operation id="5" type="drilling" subtype="2" side="6" x="1049" y="64" xo="54" yo="9" xl="w" yl="h" d="5" depth="11.5" millD="0"/>
-          <operation id="6" type="drilling" subtype="2" side="6" x="749" y="64" xo="354" yo="9" xl="w" yl="h" d="5" depth="11.5" millD="0"/>
-          <operation id="7" type="drilling" subtype="17" side="6" x="1017" y="64" xo="86" yo="9" xl="w" yl="h" d="8" depth="12" millD="0"/>
-          <operation id="8" type="drilling" subtype="17" side="6" x="717" y="64" xo="386" yo="9" xl="w" yl="h" d="8" depth="12" millD="0"/>
-          <operation id="9" type="drilling" subtype="17" side="6" x="86" y="64" xo="86" yo="9" xl="0" yl="h" d="8" depth="12" millD="0"/>
-          <operation id="10" type="drilling" subtype="17" side="6" x="386" y="64" xo="386" yo="9" xl="0" yl="h" d="8" depth="12" millD="0"/>
-          <operation id="11" type="drilling" subtype="48" side="6" x="70" y="14" xo="70" yo="14" xl="0" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="12" type="drilling" subtype="48" side="6" x="370" y="14" xo="370" yo="14" xl="0" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="13" type="drilling" subtype="48" side="6" x="1033" y="14" xo="70" yo="14" xl="w" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="14" type="drilling" subtype="48" side="6" x="733" y="14" xo="370" yo="14" xl="w" yl="0" d="7" depth="30" millD="0"/>
-        </operations>
-      </detail>
-      <detail id="7" material="1" barcode="" amount="1" width="1102" height="99" description="Dy2" slidingfilling="0" timestamp="1610322722" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
-        <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-        </edges>
-        <operations>
-          <operation id="1" type="drilling" subtype="12" side="2" x="9" y="30" xo="9" yo="30" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="2" type="drilling" subtype="12" side="2" x="9" y="70" xo="9" yo="30" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="3" type="drilling" subtype="12" side="4" x="9" y="30" xo="9" yo="30" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="4" type="drilling" subtype="12" side="4" x="9" y="70" xo="9" yo="30" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="5" type="drilling" subtype="48" side="6" x="527" y="70" xo="527" yo="30" xl="0" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="6" type="drilling" subtype="48" side="6" x="527" y="30" xo="527" yo="30" xl="0" yl="0" d="7" depth="30" millD="0"/>
-          <operation id="7" type="drilling" subtype="48" side="6" x="627" y="91" xo="476" yo="9" xl="w" yl="h" d="7" depth="30" millD="0"/>
-          <operation id="8" type="drilling" subtype="48" side="6" x="1012" y="91" xo="91" yo="9" xl="w" yl="h" d="7" depth="30" millD="0"/>
-        </operations>
-      </detail>
-      <detail id="8" material="1" barcode="" amount="2" width="398" height="99" description="Dy3" slidingfilling="0" timestamp="1610322778" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="2" material="1" barcode="" amount="2" width="429" height="99" description="Hy1" slidingfilling="0" timestamp="1610322778" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -170,75 +45,9 @@
         <operations>
           <operation id="1" type="drilling" subtype="12" side="2" x="9" y="30" xo="9" yo="30" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
           <operation id="2" type="drilling" subtype="12" side="2" x="9" y="70" xo="9" yo="70" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="3" type="drilling" subtype="12" side="4" x="9" y="30" xo="9" yo="30" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="4" type="drilling" subtype="12" side="4" x="9" y="70" xo="9" yo="70" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
         </operations>
       </detail>
-      <detail id="9" material="1" barcode="" amount="1" width="1102" height="162.5" description="Dz0" slidingfilling="0" timestamp="1610322840" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
-        <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-        </edges>
-        <operations>
-          <operation id="1" type="drilling" subtype="12" side="2" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="2" type="drilling" subtype="12" side="2" x="9" y="125" xo="9" yo="40" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="3" type="drilling" subtype="12" side="4" x="9" y="125" xo="9" yo="40" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="4" type="drilling" subtype="12" side="4" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="5" type="drilling" subtype="12" side="3" x="70" y="9" xo="70" yo="9" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="6" type="drilling" subtype="12" side="3" x="370" y="9" xo="370" yo="9" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="7" type="drilling" subtype="12" side="3" x="1033" y="9" xo="70" yo="9" xl="w" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="8" type="drilling" subtype="12" side="3" x="733" y="9" xo="370" yo="9" xl="w" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="9" type="drilling" subtype="2" side="1" x="64" y="7" xo="64" yo="7" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
-          <operation id="10" type="drilling" subtype="17" side="1" x="96" y="7" xo="96" yo="7" xl="0" yl="0" d="8" depth="12" millD="0"/>
-          <operation id="11" type="drilling" subtype="17" side="1" x="408" y="7" xo="408" yo="7" xl="0" yl="0" d="8" depth="12" millD="0"/>
-          <operation id="12" type="drilling" subtype="2" side="1" x="440" y="7" xo="440" yo="7" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
-        </operations>
-      </detail>
-      <detail id="10" material="1" barcode="" amount="1" width="566" height="167" description="Dz1" slidingfilling="0" timestamp="1610322887" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
-        <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-        </edges>
-        <operations>
-          <operation id="1" type="drilling" subtype="12" side="2" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="2" type="drilling" subtype="12" side="2" x="9" y="128" xo="9" yo="40" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="3" type="drilling" subtype="12" side="4" x="9" y="128" xo="9" yo="40" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
-          <operation id="4" type="drilling" subtype="12" side="4" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="5" type="drilling" subtype="12" side="3" x="91" y="9" xo="91" yo="9" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="6" type="drilling" subtype="12" side="3" x="476" y="9" xo="91" yo="9" xl="w" yl="0" d="4.5" depth="34" millD="0"/>
-        </operations>
-      </detail>
-      <detail id="11" material="1" barcode="" amount="1" width="1102" height="84" description="Dz2" slidingfilling="0" timestamp="1610322936" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
-        <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-        </edges>
-        <operations>
-          <operation id="1" type="drilling" subtype="12" side="2" x="9" y="23" xo="9" yo="23" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="2" type="drilling" subtype="12" side="2" x="9" y="62" xo="9" yo="62" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="3" type="drilling" subtype="12" side="4" x="9" y="62" xo="9" yo="62" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="4" type="drilling" subtype="12" side="4" x="9" y="23" xo="9" yo="23" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
-          <operation id="5" type="drilling" subtype="5" side="6" x="54" y="34" xo="54" yo="34" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
-          <operation id="6" type="drilling" subtype="5" side="6" x="354" y="34" xo="354" yo="34" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
-          <operation id="7" type="drilling" subtype="5" side="6" x="749" y="34" xo="354" yo="34" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
-          <operation id="8" type="drilling" subtype="5" side="6" x="1049" y="34" xo="54" yo="34" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
-          <operation id="9" type="drilling" subtype="15" side="5" x="54" y="9" xo="54" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
-          <operation id="10" type="drilling" subtype="15" side="5" x="354" y="9" xo="354" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
-          <operation id="11" type="drilling" subtype="15" side="5" x="1049" y="9" xo="54" yo="9" xl="w" yl="0" d="8" depth="33" millD="0"/>
-          <operation id="12" type="drilling" subtype="15" side="5" x="749" y="9" xo="354" yo="9" xl="w" yl="0" d="8" depth="33" millD="0"/>
-          <operation id="13" type="drilling" subtype="18" side="5" x="86" y="9" xo="86" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
-          <operation id="14" type="drilling" subtype="18" side="5" x="386" y="9" xo="386" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
-          <operation id="15" type="drilling" subtype="18" side="5" x="1017" y="9" xo="86" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
-          <operation id="16" type="drilling" subtype="18" side="5" x="717" y="9" xo="386" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
-        </operations>
-      </detail>
-      <detail id="12" material="1" barcode="" amount="1" width="557.5" height="731" description="Ex0" slidingfilling="0" timestamp="1610844336" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="3" material="1" barcode="" amount="1" width="557.5" height="731" description="Ex0" slidingfilling="0" timestamp="1610844336" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -261,7 +70,7 @@
           <operation id="13" type="cornerOperation" corner="3" subtype="3" x="25.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="13" material="1" barcode="" amount="1" width="557.5" height="731" description="Px0" slidingfilling="0" timestamp="1610900931" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="4" material="1" barcode="" amount="1" width="557.5" height="731" description="Px0" slidingfilling="0" timestamp="1610900931" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -281,7 +90,7 @@
           <operation id="10" type="cornerOperation" corner="3" subtype="3" x="25.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="14" material="1" barcode="" amount="1" width="557.5" height="731" description="Px1" slidingfilling="0" timestamp="1610901103" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="5" material="1" barcode="" amount="1" width="557.5" height="731" description="Px1" slidingfilling="0" timestamp="1610901103" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -301,7 +110,7 @@
           <operation id="10" type="cornerOperation" corner="2" subtype="3" x="25.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="15" material="1" barcode="" amount="1" width="557.5" height="731" description="Ex1" slidingfilling="0" timestamp="1610844345" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="6" material="1" barcode="" amount="1" width="557.5" height="731" description="Ex1" slidingfilling="0" timestamp="1610844345" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -324,7 +133,7 @@
           <operation id="13" type="cornerOperation" corner="3" subtype="3" x="25.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="16" material="1" barcode="" amount="1" width="863" height="557.5" description="Ez0" slidingfilling="0" timestamp="1610844375" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="7" material="1" barcode="" amount="1" width="863" height="557.5" description="Ez0" slidingfilling="0" timestamp="1610844375" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -344,7 +153,7 @@
           <operation id="10" type="drilling" subtype="12" side="4" x="9" y="280" xo="9" yo="280" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
         </operations>
       </detail>
-      <detail id="17" material="1" barcode="" amount="1" width="163" height="557.5" description="Pz0" slidingfilling="0" timestamp="1610901797" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="8" material="1" barcode="" amount="1" width="163" height="557.5" description="Pz0" slidingfilling="0" timestamp="1610901797" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -364,7 +173,7 @@
           <operation id="10" type="drilling" subtype="12" side="4" x="9" y="280" xo="9" yo="280" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
         </operations>
       </detail>
-      <detail id="18" material="1" barcode="" amount="1" width="863" height="471" description="Ez1" slidingfilling="0" timestamp="1610844401" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="9" material="1" barcode="" amount="1" width="863" height="471" description="Ez1" slidingfilling="0" timestamp="1610844401" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -390,7 +199,7 @@
           <operation id="16" type="drilling" subtype="12" side="3" x="312" y="9" xo="312" yo="9" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
         </operations>
       </detail>
-      <detail id="19" material="1" barcode="" amount="1" width="163" height="449" description="Pz1" slidingfilling="0" timestamp="1610901891" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="10" material="1" barcode="" amount="1" width="163" height="449" description="Pz1" slidingfilling="0" timestamp="1610901891" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -408,7 +217,7 @@
           <operation id="8" type="drilling" subtype="18" side="2" x="9" y="96" xo="9" yo="96" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="20" material="1" barcode="" amount="1" width="863" height="179" description="Ey0" slidingfilling="0" timestamp="1610844422" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="11" material="1" barcode="" amount="1" width="863" height="179" description="Ey0" slidingfilling="0" timestamp="1610844422" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -428,7 +237,7 @@
           <operation id="10" type="drilling" subtype="48" side="6" x="312" y="101" xo="312" yo="79" xl="0" yl="h" d="7" depth="30" millD="0"/>
         </operations>
       </detail>
-      <detail id="21" material="1" barcode="" amount="1" width="884" height="567.5" description="Cz0" slidingfilling="0" timestamp="1610957146" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="12" material="1" barcode="" amount="1" width="884" height="567.5" description="Cz0" slidingfilling="0" timestamp="1610957146" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -456,7 +265,7 @@
           <operation id="18" type="cornerOperation" corner="2" subtype="3" x="352" y="410" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="22" material="1" barcode="" amount="2" width="533" height="159" description="Cz1" slidingfilling="0" timestamp="1610957210" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="13" material="1" barcode="" amount="2" width="533" height="159" description="Cz1" slidingfilling="0" timestamp="1610957210" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -478,7 +287,7 @@
           <operation id="12" type="drilling" subtype="5" side="6" x="500" y="112" xo="34" yo="48" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
         </operations>
       </detail>
-      <detail id="23" material="1" barcode="" amount="1" width="567.5" height="731" description="Cx0" slidingfilling="0" timestamp="1610957251" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="14" material="1" barcode="" amount="1" width="567.5" height="731" description="Cx0" slidingfilling="0" timestamp="1610957251" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -502,7 +311,7 @@
           <operation id="14" type="cornerOperation" corner="3" subtype="3" x="25.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="24" material="1" barcode="" amount="1" width="567.5" height="731" description="Cx1" slidingfilling="0" timestamp="1610957268" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="15" material="1" barcode="" amount="1" width="567.5" height="731" description="Cx1" slidingfilling="0" timestamp="1610957268" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -529,7 +338,7 @@
           <operation id="17" type="shapeByPattern" patternId="uShaped" edgeId="2" ext="0" shift="138" sizeH="70" sizeV="362" radius="10" edgeMaterial="2"/>
         </operations>
       </detail>
-      <detail id="25" material="1" barcode="" amount="1" width="409" height="119" description="Cx2" slidingfilling="0" timestamp="1610957289" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="16" material="1" barcode="" amount="1" width="409" height="119" description="Cx2" slidingfilling="0" timestamp="1610957289" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -550,7 +359,7 @@
           <operation id="11" type="drilling" subtype="5" side="1" x="376" y="92" xo="376" yo="92" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
         </operations>
       </detail>
-      <detail id="26" material="1" barcode="" amount="1" width="884" height="99" description="Cy0" slidingfilling="0" timestamp="1610957312" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="17" material="1" barcode="" amount="1" width="884" height="99" description="Cy0" slidingfilling="0" timestamp="1610957312" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -572,7 +381,7 @@
           <operation id="12" type="drilling" subtype="2" side="6" x="773" y="91" xo="112" yo="9" xl="w" yl="h" d="5" depth="11.5" millD="0"/>
         </operations>
       </detail>
-      <detail id="27" material="1" barcode="" amount="1" width="884" height="713" description="Cy1" slidingfilling="0" timestamp="1610957331" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="18" material="1" barcode="" amount="1" width="884" height="713" description="Cy1" slidingfilling="0" timestamp="1610957331" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -599,7 +408,7 @@
           <operation id="17" type="shapeByPattern" patternId="uShaped" edgeId="4" ext="0" shift="120" sizeH="145" sizeV="362" radius="10" edgeMaterial="2"/>
         </operations>
       </detail>
-      <detail id="28" material="1" barcode="" amount="1" width="369" height="119" description="Cy2" slidingfilling="0" timestamp="1610957349" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="19" material="1" barcode="" amount="1" width="369" height="119" description="Cy2" slidingfilling="0" timestamp="1610957349" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -617,7 +426,7 @@
           <operation id="8" type="drilling" subtype="12" side="2" x="9" y="90" xo="9" yo="30" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
         </operations>
       </detail>
-      <detail id="29" material="1" barcode="" amount="1" width="576.5" height="1624" description="Bx0" slidingfilling="0" timestamp="1610980790" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="20" material="1" barcode="" amount="1" width="576.5" height="1624" description="Bx0" slidingfilling="0" timestamp="1610980790" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -657,7 +466,7 @@
           <operation id="30" type="drilling" subtype="4" side="6" x="38" y="1523" xo="541" yo="102" xl="w" yl="h" d="10" depth="14" millD="0"/>
         </operations>
       </detail>
-      <detail id="30" material="1" barcode="" amount="1" width="576.5" height="1624" description="Bx1" slidingfilling="0" timestamp="1610986227" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="21" material="1" barcode="" amount="1" width="576.5" height="1624" description="Bx1" slidingfilling="0" timestamp="1610986227" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -698,7 +507,7 @@
           <operation id="31" type="shapeByPattern" patternId="uShaped" edgeId="4" ext="0" shift="200" sizeH="49" sizeV="1102" radius="10" edgeMaterial="2"/>
         </operations>
       </detail>
-      <detail id="31" material="1" barcode="" amount="1" width="563" height="576.5" description="Bz0" slidingfilling="0" timestamp="1610980855" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="22" material="1" barcode="" amount="1" width="563" height="576.5" description="Bz0" slidingfilling="0" timestamp="1610980855" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -724,7 +533,7 @@
           <operation id="16" type="drilling" subtype="18" side="4" x="9" y="416" xo="9" yo="416" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="32" material="1" barcode="" amount="1" width="563" height="557.5" description="Az0" slidingfilling="0" timestamp="1610993884" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="23" material="1" barcode="" amount="1" width="563" height="557.5" description="Az0" slidingfilling="0" timestamp="1610993884" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -751,7 +560,7 @@
           <operation id="17" type="shapeByPattern" patternId="uShaped" edgeId="3" ext="0" shift="90" sizeH="384" sizeV="150" radius="10" edgeMaterial="2"/>
         </operations>
       </detail>
-      <detail id="33" material="1" barcode="" amount="1" width="563" height="557.5" description="Az2" slidingfilling="0" timestamp="1610993959" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="24" material="1" barcode="" amount="1" width="563" height="557.5" description="Az2" slidingfilling="0" timestamp="1610993959" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -777,7 +586,7 @@
           <operation id="16" type="drilling" subtype="18" side="4" x="9" y="416" xo="9" yo="416" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="34" material="1" barcode="" amount="1" width="563" height="517.5" description="Az1" slidingfilling="0" timestamp="1610994003" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="25" material="1" barcode="" amount="1" width="563" height="517.5" description="Az1" slidingfilling="0" timestamp="1610994003" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -807,7 +616,7 @@
           <operation id="20" type="drilling" subtype="17" side="1" x="516" y="511" xo="48" yo="9" xl="w" yl="h" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="35" material="1" barcode="" amount="1" width="563" height="527.5" description="Bz1" slidingfilling="0" timestamp="1610980961" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="26" material="1" barcode="" amount="1" width="563" height="527.5" description="Bz1" slidingfilling="0" timestamp="1610980961" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -837,7 +646,7 @@
           <operation id="20" type="drilling" subtype="17" side="1" x="468" y="521" xo="96" yo="521" xl="w" yl="0" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="36" material="1" barcode="" amount="1" width="563" height="527.5" description="Bz2" slidingfilling="0" timestamp="1610987226" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="27" material="1" barcode="" amount="1" width="563" height="527.5" description="Bz2" slidingfilling="0" timestamp="1610987226" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -867,7 +676,7 @@
           <operation id="20" type="drilling" subtype="17" side="6" x="468" y="521" xo="96" yo="521" xl="w" yl="0" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="37" material="1" barcode="" amount="1" width="563" height="527.5" description="Bz3" slidingfilling="0" timestamp="1610980993" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="28" material="1" barcode="" amount="1" width="563" height="527.5" description="Bz3" slidingfilling="0" timestamp="1610980993" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -881,7 +690,7 @@
           <operation id="4" type="drilling" subtype="6" side="6" x="9.5" y="96" xo="9.5" yo="96" xl="0" yl="0" d="20" depth="14.2" millD="0"/>
         </operations>
       </detail>
-      <detail id="38" material="1" barcode="" amount="1" width="563" height="577.5" description="Bz4" slidingfilling="0" timestamp="1610981063" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="29" material="1" barcode="" amount="1" width="563" height="577.5" description="Bz4" slidingfilling="0" timestamp="1610981063" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -907,7 +716,7 @@
           <operation id="16" type="drilling" subtype="18" side="4" x="9" y="416" xo="9" yo="416" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="39" material="1" barcode="" amount="1" width="561" height="260" description="By1" slidingfilling="0" timestamp="1610981093" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="30" material="1" barcode="" amount="1" width="561" height="260" description="By1" slidingfilling="0" timestamp="1610981093" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -925,7 +734,7 @@
           <operation id="8" type="drilling" subtype="17" side="6" x="553" y="229" xo="9" yo="32" xl="w" yl="h" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="40" material="1" barcode="" amount="1" width="561" height="302" description="By2" slidingfilling="0" timestamp="1610981105" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="31" material="1" barcode="" amount="1" width="561" height="302" description="By2" slidingfilling="0" timestamp="1610981105" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -943,7 +752,7 @@
           <operation id="8" type="drilling" subtype="17" side="6" x="513" y="271" xo="49" yo="32" xl="w" yl="h" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="41" material="1" barcode="" amount="2" width="260" height="99" description="Bx2" slidingfilling="0" timestamp="1610981137" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="32" material="1" barcode="" amount="2" width="260" height="99" description="Bx2" slidingfilling="0" timestamp="1610981137" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -959,7 +768,7 @@
           <operation id="6" type="drilling" subtype="18" side="5" x="229" y="9" xo="32" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="42" material="1" barcode="" amount="2" width="302" height="99" description="Bx3" slidingfilling="0" timestamp="1610981151" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="33" material="1" barcode="" amount="2" width="302" height="99" description="Bx3" slidingfilling="0" timestamp="1610981151" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -975,7 +784,7 @@
           <operation id="6" type="drilling" subtype="18" side="5" x="271" y="9" xo="32" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="43" material="1" barcode="" amount="1" width="563" height="369" description="By0" slidingfilling="0" timestamp="1610992698" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="34" material="1" barcode="" amount="1" width="563" height="369" description="By0" slidingfilling="0" timestamp="1610992698" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1010,7 +819,7 @@
           <operation id="25" type="shapeByPattern" patternId="uShaped" edgeId="3" ext="0" shift="132" sizeH="300" sizeV="150" radius="10" edgeMaterial="2"/>
         </operations>
       </detail>
-      <detail id="44" material="1" barcode="" amount="1" width="2344" height="557.5" description="Ax0" slidingfilling="0" timestamp="1610992979" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="35" material="1" barcode="" amount="1" width="2344" height="557.5" description="Ax0" slidingfilling="0" timestamp="1610992979" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1051,7 +860,7 @@
           <operation id="31" type="drilling" subtype="18" side="5" x="607" y="9" xo="1738" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="45" material="1" barcode="" amount="1" width="2344" height="557.5" description="Ax1" slidingfilling="0" timestamp="1610993735" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="36" material="1" barcode="" amount="1" width="2344" height="557.5" description="Ax1" slidingfilling="0" timestamp="1610993735" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1092,7 +901,7 @@
           <operation id="31" type="drilling" subtype="18" side="3" x="607" y="9" xo="1738" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="46" material="1" barcode="" amount="1" width="599" height="199" description="Ay0" slidingfilling="0" timestamp="1610994306" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="37" material="1" barcode="" amount="1" width="599" height="199" description="Ay0" slidingfilling="0" timestamp="1610994306" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1110,7 +919,7 @@
           <operation id="8" type="drilling" subtype="17" side="1" x="591" y="32" xo="9" yo="32" xl="w" yl="0" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="47" material="1" barcode="" amount="1" width="599" height="399" description="Ay1" slidingfilling="0" timestamp="1610994386" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="38" material="1" barcode="" amount="1" width="599" height="399" description="Ay1" slidingfilling="0" timestamp="1610994386" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1128,7 +937,7 @@
           <operation id="8" type="drilling" subtype="17" side="1" x="591" y="32" xo="9" yo="32" xl="w" yl="0" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="48" material="1" barcode="" amount="1" width="563" height="299" description="Ay2" slidingfilling="0" timestamp="1610994427" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="39" material="1" barcode="" amount="1" width="563" height="299" description="Ay2" slidingfilling="0" timestamp="1610994427" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1156,7 +965,7 @@
           <operation id="18" type="drilling" subtype="18" side="5" x="500" y="9" xo="64" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="49" material="1" barcode="" amount="1" width="2344" height="97.5" description="Ax2" slidingfilling="0" timestamp="1611000893" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+      <detail id="40" material="1" barcode="" amount="1" width="2344" height="97.5" description="Ax2" slidingfilling="0" timestamp="1611000893" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1164,7 +973,7 @@
           <bottom type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="50" material="1" barcode="" amount="1" width="663" height="275" description="Jz0" slidingfilling="0" timestamp="1611006773" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="41" material="1" barcode="" amount="1" width="663" height="275" description="Jz0" slidingfilling="0" timestamp="1611006773" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1184,7 +993,7 @@
           <operation id="10" type="drilling" subtype="2" side="1" x="332" y="264" xo="332" yo="12" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
         </operations>
       </detail>
-      <detail id="51" material="1" barcode="" amount="1" width="211" height="275" description="Jz1" slidingfilling="0" timestamp="1611015253" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="42" material="1" barcode="" amount="1" width="211" height="275" description="Jz1" slidingfilling="0" timestamp="1611015253" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1200,7 +1009,7 @@
           <operation id="6" type="grooving" side="1" subtype="0" x="0" y="245" bindH="true" bindV="false" xa="-0.5" ya="244.5" width="4" length="212" depth="8" closed="0" millD="0" article="" freza="0" BHXAvailable="true"/>
         </operations>
       </detail>
-      <detail id="52" material="1" barcode="" amount="1" width="306.5" height="674" description="Jx2" slidingfilling="0" timestamp="1611009162" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="43" material="1" barcode="" amount="1" width="306.5" height="674" description="Jx2" slidingfilling="0" timestamp="1611009162" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1224,7 +1033,7 @@
           <operation id="14" type="cornerOperation" corner="2" subtype="3" x="16" y="18" r="10" mill="1" ext="0" edgeMaterial="" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="53" material="1" barcode="" amount="1" width="663" height="303.5" description="Jz2" slidingfilling="0" timestamp="1611016500" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="44" material="1" barcode="" amount="1" width="663" height="303.5" description="Jz2" slidingfilling="0" timestamp="1611016500" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1248,7 +1057,7 @@
           <operation id="14" type="grooving" side="1" subtype="0" x="0" y="287" bindH="true" bindV="false" xa="-0.5" ya="285" width="4" length="664" depth="8" closed="0" millD="0" article="" freza="0" BHXAvailable="true"/>
         </operations>
       </detail>
-      <detail id="54" material="1" barcode="" amount="1" width="211" height="303.5" description="Jz3" slidingfilling="0" timestamp="1611016522" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="45" material="1" barcode="" amount="1" width="211" height="303.5" description="Jz3" slidingfilling="0" timestamp="1611016522" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1268,7 +1077,7 @@
           <operation id="10" type="grooving" side="6" subtype="0" x="0" y="275" bindH="true" bindV="false" xa="-0.5" ya="273" width="4" length="212" depth="8" closed="0" millD="0" article="" freza="0" BHXAvailable="true"/>
         </operations>
       </detail>
-      <detail id="55" material="1" barcode="" amount="1" width="893" height="287.5" description="Jz4" slidingfilling="0" timestamp="1611016549" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="46" material="1" barcode="" amount="1" width="893" height="287.5" description="Jz4" slidingfilling="0" timestamp="1611016549" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1282,7 +1091,7 @@
           <operation id="4" type="drilling" subtype="12" side="4" x="9" y="250" xo="9" yo="250" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
         </operations>
       </detail>
-      <detail id="56" material="1" barcode="" amount="1" width="211" height="252.5" description="Jz5" slidingfilling="0" timestamp="1611016589" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="47" material="1" barcode="" amount="1" width="211" height="252.5" description="Jz5" slidingfilling="0" timestamp="1611016589" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1296,7 +1105,7 @@
           <operation id="4" type="drilling" subtype="6" side="6" x="202.5" y="215" xo="9.5" yo="215" xl="w" yl="0" d="20" depth="14.2" millD="0"/>
         </operations>
       </detail>
-      <detail id="57" material="1" barcode="" amount="1" width="663" height="638" description="Jy0" slidingfilling="0" timestamp="1611016617" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="48" material="1" barcode="" amount="1" width="663" height="638" description="Jy0" slidingfilling="0" timestamp="1611016617" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1328,7 +1137,7 @@
           <operation id="22" type="drilling" subtype="18" side="3" x="600" y="9" xo="64" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="58" material="1" barcode="" amount="1" width="306.5" height="997" description="Jx0" slidingfilling="0" timestamp="1611016654" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="2">
+      <detail id="49" material="1" barcode="" amount="1" width="306.5" height="997" description="Jx0" slidingfilling="0" timestamp="1611016654" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1351,7 +1160,7 @@
           <operation id="13" type="grooving" side="6" subtype="1" x="15" y="667" bindH="true" bindV="false" xa="14.5" ya="666.5" width="4" length="331" depth="8" closed="0" millD="4" article="" freza="0" BHXAvailable="true"/>
         </operations>
       </detail>
-      <detail id="59" material="1" barcode="" amount="1" width="306.5" height="997" description="Jx1" slidingfilling="0" timestamp="1611050467" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="50" material="1" barcode="" amount="1" width="306.5" height="997" description="Jx1" slidingfilling="0" timestamp="1611050467" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1376,7 +1185,7 @@
           <operation id="15" type="grooving" side="1" subtype="0" x="25" y="164" bindH="false" bindV="false" xa="23" ya="163.5" width="6" length="263" depth="6" radius="3" closed="0" millD="6" article="" freza="0" BHXAvailable="false"/>
         </operations>
       </detail>
-      <detail id="60" material="1" barcode="" amount="1" width="601" height="279" description="Lz0" slidingfilling="0" timestamp="1611058829" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="51" material="1" barcode="" amount="1" width="601" height="279" description="Lz0" slidingfilling="0" timestamp="1611058829" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1395,7 +1204,7 @@
           <operation id="9" type="grooving" side="1" subtype="0" x="0" y="261" bindH="true" bindV="false" xa="-0.5" ya="260.5" width="4" length="602" depth="8" closed="0" millD="0" article="" freza="0" BHXAvailable="true"/>
         </operations>
       </detail>
-      <detail id="61" material="1" barcode="" amount="1" width="601" height="291.5" description="Lz1" slidingfilling="0" timestamp="1611068582" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="52" material="1" barcode="" amount="1" width="601" height="291.5" description="Lz1" slidingfilling="0" timestamp="1611068582" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1413,7 +1222,7 @@
           <operation id="8" type="drilling" subtype="0" side="4" x="9" y="230" xo="9" yo="64" xl="0" yl="h" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="62" material="1" barcode="" amount="2" width="601" height="295" description="Lz2" slidingfilling="0" timestamp="1611068885" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="53" material="1" barcode="" amount="2" width="601" height="295" description="Lz2" slidingfilling="0" timestamp="1611068885" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1435,7 +1244,7 @@
           <operation id="12" type="cornerOperation" corner="1" subtype="3" x="522" y="20" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="63" material="1" barcode="" amount="1" width="310.5" height="997" description="Lx0" slidingfilling="0" timestamp="1611069501" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="2">
+      <detail id="54" material="1" barcode="" amount="1" width="310.5" height="997" description="Lx0" slidingfilling="0" timestamp="1611069501" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1465,7 +1274,7 @@
           <operation id="20" type="grooving" side="6" subtype="1" x="15" y="10" bindH="false" bindV="false" xa="14.5" ya="9.5" width="4" length="988" depth="8" closed="0" millD="4" article="" freza="0" BHXAvailable="true"/>
         </operations>
       </detail>
-      <detail id="64" material="1" barcode="" amount="1" width="314" height="997" description="Lx1" slidingfilling="0" timestamp="1611070192" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="55" material="1" barcode="" amount="1" width="314" height="997" description="Lx1" slidingfilling="0" timestamp="1611070192" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1507,7 +1316,7 @@
           <operation id="32" type="grooving" side="1" subtype="0" x="27" y="44" bindH="false" bindV="false" xa="26.5" ya="43.5" width="6" length="288" depth="6" radius="3" closed="0" millD="6" article="" freza="0" BHXAvailable="false"/>
         </operations>
       </detail>
-      <detail id="65" material="1" barcode="" amount="1" width="310.5" height="997" description="Mx0" slidingfilling="0" timestamp="1611094103" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="56" material="1" barcode="" amount="1" width="310.5" height="997" description="Mx0" slidingfilling="0" timestamp="1611094103" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1543,7 +1352,7 @@
           <operation id="26" type="cornerOperation" corner="2" subtype="3" x="20" y="20" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="66" material="1" barcode="" amount="1" width="310.5" height="997" description="Mx1" slidingfilling="0" timestamp="1611095112" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="57" material="1" barcode="" amount="1" width="310.5" height="997" description="Mx1" slidingfilling="0" timestamp="1611095112" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1577,7 +1386,7 @@
           <operation id="24" type="cornerOperation" corner="3" subtype="3" x="20" y="20" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="67" material="1" barcode="" amount="2" width="290" height="253" description="Mx2" slidingfilling="0" timestamp="1611095259" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="58" material="1" barcode="" amount="2" width="290" height="253" description="Mx2" slidingfilling="0" timestamp="1611095259" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1595,7 +1404,7 @@
           <operation id="8" type="drilling" subtype="18" side="3" x="259" y="9" xo="32" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="68" material="1" barcode="" amount="1" width="185" height="296" description="Mx3" slidingfilling="0" timestamp="1611095386" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="59" material="1" barcode="" amount="1" width="185" height="296" description="Mx3" slidingfilling="0" timestamp="1611095386" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1608,7 +1417,7 @@
           <operation id="3" type="drilling" subtype="17" side="1" x="9" y="181" xo="9" yo="181" xl="0" yl="0" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="69" material="1" barcode="" amount="2" width="111" height="304" description="Mx4" slidingfilling="0" timestamp="1611095503" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="60" material="1" barcode="" amount="2" width="111" height="304" description="Mx4" slidingfilling="0" timestamp="1611095503" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1626,7 +1435,7 @@
           <operation id="8" type="drilling" subtype="18" side="5" x="56" y="9" xo="56" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="70" material="1" barcode="" amount="1" width="142" height="290" description="Mz0" slidingfilling="0" timestamp="1611095777" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="61" material="1" barcode="" amount="1" width="142" height="290" description="Mz0" slidingfilling="0" timestamp="1611095777" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1645,7 +1454,7 @@
           <operation id="9" type="drilling" subtype="17" side="1" x="134" y="259" xo="9" yo="32" xl="w" yl="h" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="71" material="1" barcode="" amount="1" width="142" height="290" description="Mz1" slidingfilling="0" timestamp="1611096147" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="62" material="1" barcode="" amount="1" width="142" height="290" description="Mz1" slidingfilling="0" timestamp="1611096147" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1664,7 +1473,7 @@
           <operation id="9" type="drilling" subtype="17" side="1" x="9" y="259" xo="9" yo="32" xl="0" yl="h" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="72" material="1" barcode="" amount="1" width="563" height="310.5" description="Mz2" slidingfilling="0" timestamp="1611096273" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="63" material="1" barcode="" amount="1" width="563" height="310.5" description="Mz2" slidingfilling="0" timestamp="1611096273" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1690,7 +1499,7 @@
           <operation id="16" type="shapeByPattern" patternId="uShaped" edgeId="3" ext="0" shift="195" sizeH="226" sizeV="186" radius="10" edgeMaterial="2"/>
         </operations>
       </detail>
-      <detail id="73" material="1" barcode="" amount="1" width="563" height="310.5" description="Mz3" slidingfilling="0" timestamp="1611096893" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="64" material="1" barcode="" amount="1" width="563" height="310.5" description="Mz3" slidingfilling="0" timestamp="1611096893" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1715,7 +1524,7 @@
           <operation id="15" type="shapeByPattern" patternId="uShaped" edgeId="3" ext="0" shift="263" sizeH="132" sizeV="145" radius="10" edgeMaterial=""/>
         </operations>
       </detail>
-      <detail id="74" material="1" barcode="" amount="1" width="563" height="295.5" description="Mz4" slidingfilling="0" timestamp="1611097201" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="65" material="1" barcode="" amount="1" width="563" height="295.5" description="Mz4" slidingfilling="0" timestamp="1611097201" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1739,7 +1548,7 @@
           <operation id="14" type="shapeByPattern" patternId="uShaped" edgeId="3" ext="0" shift="263" sizeH="132" sizeV="130" radius="10" edgeMaterial=""/>
         </operations>
       </detail>
-      <detail id="75" material="1" barcode="" amount="1" width="563" height="69" description="My0" slidingfilling="0" timestamp="1611097517" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="66" material="1" barcode="" amount="1" width="563" height="69" description="My0" slidingfilling="0" timestamp="1611097517" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1757,7 +1566,7 @@
           <operation id="8" type="drilling" subtype="17" side="6" x="468" y="61" xo="96" yo="9" xl="w" yl="h" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="76" material="1" barcode="" amount="1" width="319" height="253" description="My1" slidingfilling="0" timestamp="1611097746" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="67" material="1" barcode="" amount="1" width="319" height="253" description="My1" slidingfilling="0" timestamp="1611097746" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1773,7 +1582,7 @@
           <operation id="6" type="drilling" subtype="17" side="6" x="311" y="159" xo="9" yo="159" xl="w" yl="0" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="77" material="1" barcode="" amount="1" width="214" height="297" description="My2" slidingfilling="0" timestamp="1611097842" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="68" material="1" barcode="" amount="1" width="214" height="297" description="My2" slidingfilling="0" timestamp="1611097842" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1787,7 +1596,7 @@
           <operation id="4" type="drilling" subtype="18" side="5" x="107.5" y="9" xo="107.5" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="78" material="1" barcode="" amount="1" width="368" height="296" description="My3" slidingfilling="0" timestamp="1611097943" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="69" material="1" barcode="" amount="1" width="368" height="296" description="My3" slidingfilling="0" timestamp="1611097943" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1802,7 +1611,7 @@
           <operation id="5" type="shapeByPattern" patternId="uShaped" edgeId="3" ext="0" shift="100" sizeH="200" sizeV="30" radius="10" edgeMaterial="2"/>
         </operations>
       </detail>
-      <detail id="79" material="1" barcode="" amount="1" width="262" height="304" description="My5" slidingfilling="0" timestamp="1611098202" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="70" material="1" barcode="" amount="1" width="262" height="304" description="My5" slidingfilling="0" timestamp="1611098202" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1818,7 +1627,7 @@
           <operation id="6" type="drilling" subtype="48" side="6" x="254" y="265" xo="9" yo="40" xl="w" yl="h" d="7" depth="30" millD="0"/>
         </operations>
       </detail>
-      <detail id="80" material="1" barcode="" amount="1" width="168" height="304" description="My7" slidingfilling="0" timestamp="1611098295" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="71" material="1" barcode="" amount="1" width="168" height="304" description="My7" slidingfilling="0" timestamp="1611098295" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1834,7 +1643,7 @@
           <operation id="6" type="drilling" subtype="48" side="6" x="9" y="265" xo="9" yo="40" xl="0" yl="h" d="7" depth="30" millD="0"/>
         </operations>
       </detail>
-      <detail id="81" material="1" barcode="" amount="1" width="167" height="304" description="My6" slidingfilling="0" timestamp="1611098446" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="72" material="1" barcode="" amount="1" width="167" height="304" description="My6" slidingfilling="0" timestamp="1611098446" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1852,7 +1661,7 @@
           <operation id="8" type="drilling" subtype="17" side="1" x="159" y="184.5" xo="9" yo="184.5" xl="w" yl="0" d="8" depth="12" millD="0"/>
         </operations>
       </detail>
-      <detail id="82" material="1" barcode="" amount="2" width="310.5" height="997" description="Nx1" slidingfilling="0" timestamp="1611104311" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="73" material="1" barcode="" amount="2" width="310.5" height="997" description="Nx1" slidingfilling="0" timestamp="1611104311" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1883,7 +1692,7 @@
           <operation id="21" type="cornerOperation" corner="2" subtype="3" x="20" y="20" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="83" material="1" barcode="" amount="1" width="310.5" height="997" description="Nx2" slidingfilling="0" timestamp="1611104763" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="74" material="1" barcode="" amount="1" width="310.5" height="997" description="Nx2" slidingfilling="0" timestamp="1611104763" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1912,7 +1721,7 @@
           <operation id="19" type="cornerOperation" corner="3" subtype="3" x="20" y="20" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="84" material="1" barcode="" amount="1" width="363" height="279" description="Nz0" slidingfilling="0" timestamp="1611104917" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="75" material="1" barcode="" amount="1" width="363" height="279" description="Nz0" slidingfilling="0" timestamp="1611104917" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1933,7 +1742,7 @@
           <operation id="11" type="grooving" side="1" subtype="0" x="0" y="261" bindH="true" bindV="false" xa="-0.5" ya="260.5" width="4" length="364" depth="8" closed="0" millD="0" article="" freza="0" BHXAvailable="true"/>
         </operations>
       </detail>
-      <detail id="85" material="1" barcode="" amount="1" width="475" height="279" description="Nz4" slidingfilling="0" timestamp="1611105435" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="76" material="1" barcode="" amount="1" width="475" height="279" description="Nz4" slidingfilling="0" timestamp="1611105435" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1952,7 +1761,7 @@
           <operation id="9" type="grooving" side="1" subtype="0" x="0" y="261" bindH="true" bindV="false" xa="-0.5" ya="260.5" width="4" length="476" depth="8" closed="0" millD="0" article="" freza="0" BHXAvailable="true"/>
         </operations>
       </detail>
-      <detail id="86" material="1" barcode="" amount="1" width="363" height="291.5" description="Nz2" slidingfilling="0" timestamp="1611105089" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="77" material="1" barcode="" amount="1" width="363" height="291.5" description="Nz2" slidingfilling="0" timestamp="1611105089" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1972,7 +1781,7 @@
           <operation id="10" type="drilling" subtype="18" side="4" x="9" y="95" xo="9" yo="199" xl="0" yl="h" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="87" material="1" barcode="" amount="2" width="475" height="291.5" description="Nz6" slidingfilling="0" timestamp="1611105495" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="78" material="1" barcode="" amount="2" width="475" height="291.5" description="Nz6" slidingfilling="0" timestamp="1611105495" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -1990,7 +1799,7 @@
           <operation id="8" type="drilling" subtype="18" side="2" x="9" y="95" xo="9" yo="199" xl="0" yl="h" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="88" material="1" barcode="" amount="1" width="363" height="291.5" description="Nz3" slidingfilling="0" timestamp="1611105208" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="79" material="1" barcode="" amount="1" width="363" height="291.5" description="Nz3" slidingfilling="0" timestamp="1611105208" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2010,7 +1819,7 @@
           <operation id="10" type="drilling" subtype="18" side="4" x="9" y="95" xo="9" yo="199" xl="0" yl="h" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="89" material="1" barcode="" amount="1" width="363" height="267.5" description="Nz1" slidingfilling="0" timestamp="1611105307" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="80" material="1" barcode="" amount="1" width="363" height="267.5" description="Nz1" slidingfilling="0" timestamp="1611105307" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2024,7 +1833,7 @@
           <operation id="4" type="drilling" subtype="6" side="6" x="354.5" y="225" xo="9.5" yo="45" xl="w" yl="h" d="20" depth="14.2" millD="0"/>
         </operations>
       </detail>
-      <detail id="90" material="1" barcode="" amount="1" width="475" height="267.5" description="Nz5" slidingfilling="0" timestamp="1611105403" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="81" material="1" barcode="" amount="1" width="475" height="267.5" description="Nz5" slidingfilling="0" timestamp="1611105403" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2038,7 +1847,7 @@
           <operation id="4" type="drilling" subtype="6" side="6" x="466.5" y="225" xo="9.5" yo="45" xl="w" yl="h" d="20" depth="14.2" millD="0"/>
         </operations>
       </detail>
-      <detail id="91" material="1" barcode="" amount="1" width="452.5" height="731" description="Gx0" slidingfilling="0" timestamp="1611184964" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+      <detail id="82" material="1" barcode="" amount="1" width="452.5" height="731" description="Gx0" slidingfilling="0" timestamp="1611184964" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2062,10 +1871,10 @@
           <operation id="14" type="drilling" subtype="17" side="6" x="82" y="9" xo="82" yo="9" xl="0" yl="0" d="8" depth="12" millD="0"/>
           <operation id="15" type="drilling" subtype="2" side="6" x="405" y="9" xo="50" yo="9" xl="w" yl="0" d="5" depth="11.5" millD="0"/>
           <operation id="16" type="drilling" subtype="17" side="6" x="373" y="9" xo="82" yo="9" xl="w" yl="0" d="8" depth="12" millD="0"/>
-          <operation id="17" type="cornerOperation" corner="3" subtype="3" x="25.5" y="49" r="10.0" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
+          <operation id="17" type="cornerOperation" corner="3" subtype="3" x="25.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="92" material="1" barcode="" amount="1" width="452.5" height="731" description="Gx1" slidingfilling="0" timestamp="1611185202" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+      <detail id="83" material="1" barcode="" amount="1" width="452.5" height="731" description="Gx1" slidingfilling="0" timestamp="1611185202" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2092,7 +1901,7 @@
           <operation id="17" type="cornerOperation" corner="2" subtype="3" x="25.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="93" material="1" barcode="" amount="1" width="452.5" height="731" description="Fx0" slidingfilling="0" timestamp="1611401253" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+      <detail id="84" material="1" barcode="" amount="1" width="452.5" height="731" description="Fx0" slidingfilling="0" timestamp="1611401253" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2124,7 +1933,7 @@
           <operation id="22" type="cornerOperation" corner="3" subtype="3" x="25.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="94" material="1" barcode="" amount="1" width="456" height="731" description="Fx1" slidingfilling="0" timestamp="1611401778" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+      <detail id="85" material="1" barcode="" amount="1" width="456" height="731" description="Fx1" slidingfilling="0" timestamp="1611401778" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2164,7 +1973,7 @@
           <operation id="30" type="cornerOperation" corner="2" subtype="3" x="25.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="95" material="1" barcode="" amount="1" width="452.5" height="763" description="Gz0" slidingfilling="0" timestamp="1611185310" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="86" material="1" barcode="" amount="1" width="452.5" height="763" description="Gz0" slidingfilling="0" timestamp="1611185310" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2194,7 +2003,7 @@
           <operation id="20" type="drilling" subtype="5" side="6" x="34" y="382" xo="34" yo="382" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
         </operations>
       </detail>
-      <detail id="96" material="1" barcode="" amount="1" width="372" height="763" description="Gz1" slidingfilling="0" timestamp="1611185445" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="87" material="1" barcode="" amount="1" width="372" height="763" description="Gz1" slidingfilling="0" timestamp="1611185445" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2216,7 +2025,7 @@
           <operation id="12" type="drilling" subtype="0" side="5" x="291" y="9" xo="82" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="97" material="1" barcode="" amount="1" width="452.5" height="414" description="Fz0" slidingfilling="0" timestamp="1611398220" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="88" material="1" barcode="" amount="1" width="452.5" height="414" description="Fz0" slidingfilling="0" timestamp="1611398220" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2240,7 +2049,7 @@
           <operation id="14" type="drilling" subtype="18" side="3" x="359" y="9" xo="96" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="98" material="1" barcode="" amount="1" width="456" height="414" description="Fz2" slidingfilling="0" timestamp="1611400629" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+      <detail id="89" material="1" barcode="" amount="1" width="456" height="414" description="Fz2" slidingfilling="0" timestamp="1611400629" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2268,7 +2077,7 @@
           <operation id="18" type="cornerOperation" corner="4" subtype="3" x="20" y="334" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="99" material="1" barcode="" amount="1" width="187" height="414" description="Fz1" slidingfilling="0" timestamp="1611400871" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="90" material="1" barcode="" amount="1" width="187" height="414" description="Fz1" slidingfilling="0" timestamp="1611400871" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2284,7 +2093,7 @@
           <operation id="6" type="drilling" subtype="18" side="5" x="112" y="9" xo="112" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="100" material="1" barcode="" amount="1" width="360" height="99" description="Fx2" slidingfilling="0" timestamp="1611412118" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="91" material="1" barcode="" amount="1" width="360" height="99" description="Fx2" slidingfilling="0" timestamp="1611412118" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2298,7 +2107,7 @@
           <operation id="4" type="cornerOperation" corner="3" subtype="3" x="27.5" y="49" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
         </operations>
       </detail>
-      <detail id="101" material="1" barcode="" amount="1" width="414" height="99" description="Fy0" slidingfilling="0" timestamp="1611412684" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="92" material="1" barcode="" amount="1" width="414" height="99" description="Fy0" slidingfilling="0" timestamp="1611412684" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2314,7 +2123,7 @@
           <operation id="6" type="drilling" subtype="48" side="1" x="60" y="70" xo="355" yo="70" xl="w" yl="0" d="7" depth="30" millD="0"/>
         </operations>
       </detail>
-      <detail id="102" material="1" barcode="" amount="1" width="506.5" height="492" description="Qz0" slidingfilling="0" timestamp="1611443230" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="93" material="1" barcode="" amount="1" width="506.5" height="492" description="Qz0" slidingfilling="0" timestamp="1611443230" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2338,7 +2147,7 @@
           <operation id="14" type="drilling" subtype="48" side="6" x="9" y="429" xo="9" yo="64" xl="0" yl="h" d="7" depth="30" millD="0"/>
         </operations>
       </detail>
-      <detail id="103" material="1" barcode="" amount="1" width="227" height="492" description="Qz1" slidingfilling="0" timestamp="1611443509" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="94" material="1" barcode="" amount="1" width="227" height="492" description="Qz1" slidingfilling="0" timestamp="1611443509" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2358,7 +2167,7 @@
           <operation id="10" type="drilling" subtype="0" side="3" x="136" y="9" xo="136" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="104" material="1" barcode="" amount="1" width="77.5" height="492" description="Qz2" slidingfilling="0" timestamp="1611443756" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="95" material="1" barcode="" amount="1" width="77.5" height="492" description="Qz2" slidingfilling="0" timestamp="1611443756" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2372,7 +2181,7 @@
           <operation id="4" type="drilling" subtype="18" side="3" x="56" y="9" xo="24" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="105" material="1" barcode="" amount="1" width="477.5" height="491" description="Qz3" slidingfilling="0" timestamp="1611443896" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+      <detail id="96" material="1" barcode="" amount="1" width="477.5" height="491" description="Qz3" slidingfilling="0" timestamp="1611443896" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2380,7 +2189,7 @@
           <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="106" material="1" barcode="" amount="1" width="406" height="731" description="Qx0" slidingfilling="0" timestamp="1611443999" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+      <detail id="97" material="1" barcode="" amount="1" width="406" height="731" description="Qx0" slidingfilling="0" timestamp="1611443999" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2407,7 +2216,7 @@
           <operation id="17" type="grooving" side="6" subtype="1" x="8.5" y="130" bindH="false" bindV="false" xa="8" ya="129.5" width="3.2" length="490" depth="8" closed="0" millD="0" article="" freza="0" BHXAvailable="true"/>
         </operations>
       </detail>
-      <detail id="107" material="1" barcode="" amount="1" width="506.5" height="731" description="Qx1" slidingfilling="0" timestamp="1611444680" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="98" material="1" barcode="" amount="1" width="506.5" height="731" description="Qx1" slidingfilling="0" timestamp="1611444680" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2435,7 +2244,7 @@
           <operation id="18" type="grooving" side="6" subtype="1" x="497.3" y="130" bindH="false" bindV="true" xa="495.3" ya="129.5" width="3.2" length="490" depth="8" closed="0" millD="0" article="" freza="0" BHXAvailable="true"/>
         </operations>
       </detail>
-      <detail id="108" material="1" barcode="" amount="1" width="492" height="119" description="Qy0" slidingfilling="0" timestamp="1611445274" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="1">
+      <detail id="99" material="1" barcode="" amount="1" width="492" height="119" description="Qy0" slidingfilling="0" timestamp="1611445274" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2452,7 +2261,7 @@
           <operation id="7" type="grooving" side="3" subtype="0" x="0" y="8.5" bindH="false" bindV="false" xa="-0.5" ya="8" width="3.2" length="493" depth="8" closed="0" millD="0" article="" freza="0" BHXAvailable="false"/>
         </operations>
       </detail>
-      <detail id="109" material="1" barcode="" amount="1" width="492" height="119" description="Qy1" slidingfilling="0" timestamp="1611445418" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="1">
+      <detail id="100" material="1" barcode="" amount="1" width="492" height="119" description="Qy1" slidingfilling="0" timestamp="1611445418" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="1">
         <edges joint="0">
           <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
           <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
@@ -2467,6 +2276,276 @@
           <operation id="5" type="drilling" subtype="18" side="2" x="9" y="28" xo="9" yo="28" xl="0" yl="0" d="8" depth="25" millD="0"/>
           <operation id="6" type="drilling" subtype="18" side="2" x="9" y="92" xo="9" yo="92" xl="0" yl="0" d="8" depth="25" millD="0"/>
           <operation id="7" type="grooving" side="5" subtype="0" x="0" y="8.5" bindH="false" bindV="false" xa="-0.5" ya="8" width="3.2" length="493" depth="8" closed="0" millD="0" article="" freza="0" BHXAvailable="false"/>
+        </operations>
+      </detail>
+      <detail id="101" material="1" barcode="" amount="1" width="553" height="253.5" description="Hz0" slidingfilling="0" timestamp="1612005099" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" subtype="15" side="2" x="9" y="217" xo="9" yo="39" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="2" type="drilling" subtype="5" side="6" x="34" y="217" xo="34" yo="39" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="3" type="drilling" subtype="18" side="2" x="9" y="185" xo="9" yo="71" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="4" type="drilling" subtype="15" side="2" x="9" y="62" xo="9" yo="194" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="5" type="drilling" subtype="5" side="6" x="34" y="62" xo="34" yo="194" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="6" type="drilling" subtype="18" side="2" x="9" y="94" xo="9" yo="162" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="7" type="drilling" subtype="15" side="4" x="9" y="217" xo="9" yo="39" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="8" type="drilling" subtype="5" side="6" x="520" y="217" xo="34" yo="39" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="9" type="drilling" subtype="18" side="4" x="9" y="185" xo="9" yo="71" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="10" type="drilling" subtype="15" side="4" x="9" y="62" xo="9" yo="194" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="11" type="drilling" subtype="5" side="6" x="520" y="62" xo="34" yo="194" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="12" type="drilling" subtype="18" side="4" x="9" y="94" xo="9" yo="162" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="13" type="drilling" subtype="15" side="3" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="14" type="drilling" subtype="5" side="6" x="64" y="222" xo="64" yo="34" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="15" type="drilling" subtype="18" side="3" x="96" y="9" xo="96" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="16" type="drilling" subtype="15" side="3" x="490" y="9" xo="64" yo="9" xl="w" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="17" type="drilling" subtype="5" side="6" x="490" y="222" xo="64" yo="34" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="18" type="drilling" subtype="18" side="3" x="458" y="9" xo="96" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="19" type="drilling" subtype="2" side="6" x="504" y="32.5" xo="50" yo="223.5" xl="w" yl="h" d="5" depth="11.5" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="102" material="1" barcode="" amount="1" width="529" height="257" description="Hz1" slidingfilling="0" timestamp="1612006467" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" subtype="0" side="3" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="2" type="drilling" subtype="0" side="6" x="64" y="224" xo="64" yo="34" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="3" type="drilling" subtype="0" side="3" x="96" y="9" xo="96" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="4" type="drilling" subtype="0" side="3" x="448" y="9" xo="448" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="5" type="drilling" subtype="0" side="6" x="448" y="224" xo="448" yo="34" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="6" type="drilling" subtype="0" side="3" x="416" y="9" xo="416" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="7" type="drilling" subtype="0" side="4" x="9" y="219" xo="9" yo="39" xl="0" yl="h" d="8" depth="34" millD="0"/>
+          <operation id="8" type="drilling" subtype="0" side="6" x="478" y="219" xo="478" yo="39" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="9" type="drilling" subtype="0" side="4" x="9" y="187" xo="9" yo="71" xl="0" yl="h" d="8" depth="34" millD="0"/>
+          <operation id="10" type="drilling" subtype="0" side="4" x="9" y="64" xo="9" yo="194" xl="0" yl="h" d="8" depth="34" millD="0"/>
+          <operation id="11" type="drilling" subtype="0" side="6" x="478" y="64" xo="478" yo="194" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="12" type="drilling" subtype="0" side="4" x="9" y="96" xo="9" yo="162" xl="0" yl="h" d="8" depth="34" millD="0"/>
+          <operation id="13" type="drilling" subtype="0" side="2" x="9" y="219" xo="9" yo="39" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="14" type="drilling" subtype="0" side="6" x="34" y="219" xo="34" yo="39" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="15" type="drilling" subtype="0" side="2" x="9" y="187" xo="9" yo="71" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="16" type="drilling" subtype="0" side="2" x="9" y="64" xo="9" yo="194" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="17" type="drilling" subtype="0" side="6" x="34" y="64" xo="34" yo="194" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="18" type="drilling" subtype="0" side="2" x="9" y="96" xo="9" yo="162" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="19" type="drilling" subtype="0" side="5" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="20" type="drilling" subtype="0" side="6" x="64" y="34" xo="64" yo="34" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="21" type="drilling" subtype="0" side="5" x="96" y="9" xo="96" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="22" type="drilling" subtype="0" side="5" x="368" y="9" xo="368" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="23" type="drilling" subtype="0" side="6" x="368" y="34" xo="368" yo="34" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="24" type="drilling" subtype="0" side="5" x="400" y="9" xo="400" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="25" type="drilling" subtype="2" side="6" x="444" y="34.5" xo="86" yo="223.5" xl="w" yl="h" d="5" depth="11.5" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="103" material="1" barcode="" amount="1" width="553" height="173" description="Hz2" slidingfilling="0" timestamp="1612006500" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" subtype="15" side="3" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="2" type="drilling" subtype="5" side="6" x="64" y="140" xo="64" yo="34" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="3" type="drilling" subtype="18" side="3" x="96" y="9" xo="96" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="4" type="drilling" subtype="15" side="3" x="490" y="9" xo="64" yo="9" xl="w" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="5" type="drilling" subtype="5" side="6" x="490" y="140" xo="64" yo="34" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="6" type="drilling" subtype="18" side="3" x="458" y="9" xo="96" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="7" type="drilling" subtype="15" side="2" x="9" y="87" xo="9" yo="87" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="8" type="drilling" subtype="5" side="6" x="34" y="87" xo="34" yo="87" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="9" type="drilling" subtype="18" side="2" x="9" y="55" xo="9" yo="55" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="10" type="drilling" subtype="18" side="2" x="9" y="119" xo="9" yo="119" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="11" type="drilling" subtype="15" side="4" x="9" y="87" xo="9" yo="87" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="12" type="drilling" subtype="5" side="6" x="520" y="87" xo="34" yo="87" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="13" type="drilling" subtype="18" side="4" x="9" y="55" xo="9" yo="55" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="14" type="drilling" subtype="18" side="4" x="9" y="119" xo="9" yo="119" xl="0" yl="0" d="8" depth="25" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="104" material="1" barcode="" amount="1" width="511" height="257" description="Hz3" slidingfilling="0" timestamp="1612006564" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" subtype="15" side="3" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="2" type="drilling" subtype="5" side="6" x="64" y="224" xo="64" yo="34" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="3" type="drilling" subtype="18" side="3" x="96" y="9" xo="96" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="4" type="drilling" subtype="15" side="3" x="448" y="9" xo="64" yo="9" xl="w" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="5" type="drilling" subtype="5" side="6" x="448" y="224" xo="64" yo="34" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="6" type="drilling" subtype="18" side="3" x="416" y="9" xo="96" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="7" type="drilling" subtype="15" side="5" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="8" type="drilling" subtype="5" side="6" x="64" y="34" xo="64" yo="34" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="9" type="drilling" subtype="18" side="5" x="96" y="9" xo="96" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="10" type="drilling" subtype="15" side="5" x="368" y="9" xo="368" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="11" type="drilling" subtype="5" side="6" x="368" y="34" xo="368" yo="34" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="12" type="drilling" subtype="18" side="5" x="400" y="9" xo="400" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="13" type="drilling" subtype="15" side="5" x="443" y="9" xo="69" yo="9" xl="w" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="14" type="drilling" subtype="5" side="6" x="443" y="34" xo="69" yo="34" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="15" type="drilling" subtype="15" side="2" x="9" y="219" xo="9" yo="39" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="16" type="drilling" subtype="5" side="6" x="34" y="219" xo="34" yo="39" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="17" type="drilling" subtype="18" side="2" x="9" y="187" xo="9" yo="71" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="18" type="drilling" subtype="15" side="2" x="9" y="64" xo="9" yo="64" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="19" type="drilling" subtype="5" side="6" x="34" y="64" xo="34" yo="64" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="20" type="drilling" subtype="18" side="2" x="9" y="96" xo="9" yo="96" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="21" type="drilling" subtype="15" side="4" x="9" y="64" xo="9" yo="64" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="22" type="drilling" subtype="5" side="6" x="478" y="64" xo="34" yo="64" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="23" type="drilling" subtype="18" side="4" x="9" y="96" xo="9" yo="96" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="24" type="drilling" subtype="15" side="4" x="9" y="219" xo="9" yo="39" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="25" type="drilling" subtype="5" side="6" x="478" y="219" xo="34" yo="39" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="26" type="drilling" subtype="18" side="4" x="9" y="187" xo="9" yo="71" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="27" type="cornerOperation" corner="4" subtype="3" x="55" y="32" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
+        </operations>
+      </detail>
+      <detail id="105" material="1" barcode="" amount="1" width="329" height="731" description="Hx0" slidingfilling="0" timestamp="1612006644" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" subtype="2" side="6" x="57" y="723" xo="57" yo="9" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="2" type="drilling" subtype="17" side="6" x="89" y="723" xo="89" yo="9" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="3" type="drilling" subtype="2" side="6" x="212" y="79" xo="212" yo="79" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="4" type="drilling" subtype="17" side="6" x="180" y="79" xo="180" yo="79" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="5" type="drilling" subtype="2" side="6" x="57" y="79" xo="57" yo="79" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="6" type="drilling" subtype="17" side="6" x="89" y="79" xo="89" yo="79" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="7" type="drilling" subtype="2" side="6" x="212" y="723" xo="212" yo="9" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="8" type="drilling" subtype="17" side="6" x="180" y="723" xo="180" yo="9" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="9" type="drilling" subtype="48" side="1" x="9" y="682" xo="9" yo="50" xl="0" yl="h" d="7" depth="30" millD="0"/>
+          <operation id="10" type="drilling" subtype="17" side="6" x="9" y="650" xo="9" yo="82" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="11" type="drilling" subtype="48" side="1" x="321" y="702" xo="9.0" yo="30.0" xl="w" yl="h" d="7" depth="30.0" millD="0"/>
+          <operation id="12" type="drilling" subtype="48" side="1" x="321" y="662" xo="9" yo="70" xl="w" yl="h" d="7" depth="30.0" millD="0"/>
+          <operation id="13" type="drilling" subtype="48" side="1" x="321" y="30.0" xo="9" yo="30.0" xl="w" yl="0" d="7" depth="30.0" millD="0"/>
+          <operation id="14" type="drilling" subtype="48" side="1" x="321" y="70" xo="9" yo="70" xl="w" yl="0" d="7" depth="30.0" millD="0"/>
+          <operation id="15" type="drilling" subtype="9" side="6" x="285" y="682" xo="45.0" yo="50.0" xl="w" yl="h" d="7" depth="30" millD="0"/>
+          <operation id="16" type="drilling" subtype="17" side="6" x="285" y="650" xo="45.0" yo="82" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="17" type="drilling" subtype="9" side="6" x="285" y="120.0" xo="45.0" yo="120.0" xl="w" yl="0" d="7" depth="30" millD="0"/>
+          <operation id="18" type="drilling" subtype="17" side="6" x="285" y="152" xo="45.0" yo="152" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="19" type="drilling" subtype="48" side="1" x="285" y="401" xo="45.0" yo="331.0" xl="w" yl="h" d="7" depth="30.0" millD="0"/>
+          <operation id="20" type="drilling" subtype="48" side="1" x="9.0" y="401" xo="9.0" yo="331.0" xl="0" yl="h" d="7" depth="30.0" millD="0"/>
+          <operation id="21" type="drilling" subtype="9" side="6" x="9.0" y="120.0" xo="9.0" yo="120.0" xl="0" yl="0" d="7" depth="30" millD="0"/>
+          <operation id="22" type="drilling" subtype="17" side="6" x="9.0" y="152" xo="9.0" yo="152" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="23" type="cornerOperation" corner="1" subtype="3" x="90" y="50" r="10" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
+        </operations>
+      </detail>
+      <detail id="106" material="1" barcode="" amount="1" width="270.5" height="731" description="Hx1" slidingfilling="0" timestamp="1612006667" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+        <edges joint="0">
+          <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" subtype="2" side="6" x="168" y="723" xo="105" yo="9.0" xl="w" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="2" type="drilling" subtype="17" side="6" x="200" y="723" xo="73" yo="9.0" xl="w" yl="h" d="8" depth="12.0" millD="0"/>
+          <operation id="3" type="drilling" subtype="17" side="6" x="136" y="723" xo="137" yo="9.0" xl="w" yl="h" d="8" depth="12.0" millD="0"/>
+          <operation id="4" type="drilling" subtype="2" side="6" x="216" y="79" xo="57" yo="79" xl="w" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="5" type="drilling" subtype="17" side="6" x="184" y="79" xo="89" yo="79" xl="w" yl="0" d="8" depth="12.0" millD="0"/>
+          <operation id="6" type="drilling" subtype="2" side="6" x="61" y="79" xo="212" yo="79" xl="w" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="7" type="drilling" subtype="17" side="6" x="93" y="79" xo="180" yo="79" xl="w" yl="0" d="8" depth="12.0" millD="0"/>
+          <operation id="8" type="drilling" subtype="2" side="6" x="264" y="636" xo="9.0" yo="96.0" xl="w" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="9" type="drilling" subtype="17" side="6" x="264" y="668" xo="9.0" yo="64" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="10" type="drilling" subtype="2" side="6" x="264" y="166.0" xo="9.0" yo="166.0" xl="w" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="11" type="drilling" subtype="17" side="6" x="264" y="134" xo="9.0" yo="134" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="12" type="drilling" subtype="2" side="6" x="264" y="401" xo="9.0" yo="331.0" xl="w" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="13" type="cornerOperation" corner="4" subtype="3" x="90" y="70" r="10.0" mill="1" ext="0" edgeMaterial="2" edgeCovering="0" withoutStep="0"/>
+        </operations>
+      </detail>
+      <detail id="107" material="1" barcode="" amount="1" width="731" height="79" description="Hy2" slidingfilling="0" timestamp="1612006924" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="108" material="1" barcode="" amount="1" width="689" height="69" description="Hy3" slidingfilling="0" timestamp="1612006993" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" subtype="6" side="6" x="50" y="60.5" xo="50" yo="9.5" xl="0" yl="h" d="20" depth="14.2" millD="0"/>
+          <operation id="2" type="drilling" subtype="6" side="6" x="640" y="60.5" xo="50" yo="9.5" xl="w" yl="h" d="20" depth="14.2" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="109" material="1" barcode="" amount="1" width="1083" height="661" description="Hy0" slidingfilling="0" timestamp="1612007274" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" subtype="2" side="1" x="64" y="653" xo="64" yo="9" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="2" type="drilling" subtype="17" side="1" x="96" y="653" xo="96" yo="9" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="3" type="drilling" subtype="2" side="1" x="448" y="653" xo="448" yo="9" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="4" type="drilling" subtype="17" side="1" x="416" y="653" xo="416" yo="9" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="5" type="drilling" subtype="2" side="1" x="594" y="653" xo="594" yo="9" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="6" type="drilling" subtype="17" side="1" x="626" y="653" xo="626" yo="9" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="7" type="drilling" subtype="2" side="1" x="1020" y="653" xo="1020" yo="9" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="8" type="drilling" subtype="17" side="1" x="988" y="653" xo="988" yo="9" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="9" type="drilling" subtype="2" side="1" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="10" type="drilling" subtype="17" side="1" x="96" y="9" xo="96" yo="9" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="11" type="drilling" subtype="2" side="1" x="448" y="9" xo="448" yo="9" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="12" type="drilling" subtype="17" side="1" x="416" y="9" xo="416" yo="9" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="13" type="drilling" subtype="2" side="1" x="594" y="9" xo="594" yo="9" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="14" type="drilling" subtype="17" side="1" x="626" y="9" xo="626" yo="9" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="15" type="drilling" subtype="2" side="1" x="1020" y="9" xo="1020" yo="9" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="16" type="drilling" subtype="17" side="1" x="988" y="9" xo="988" yo="9" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="17" type="drilling" subtype="2" side="1" x="521" y="592" xo="521" yo="70" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="18" type="drilling" subtype="17" side="1" x="521" y="624" xo="521" yo="38" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="19" type="drilling" subtype="12" side="2" x="9" y="612" xo="9" yo="50" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
+          <operation id="20" type="drilling" subtype="18" side="2" x="9" y="580" xo="9" yo="82" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="21" type="drilling" subtype="12" side="2" x="9" y="50" xo="9" yo="50" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
+          <operation id="22" type="drilling" subtype="18" side="2" x="9" y="82" xo="9" yo="82" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="23" type="drilling" subtype="12" side="2" x="9" y="331" xo="9" yo="331" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
+          <operation id="24" type="drilling" subtype="15" side="4" x="9" y="566" xo="9" yo="96.0" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="25" type="drilling" subtype="5" side="6" x="1050" y="566" xo="34" yo="96.0" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="26" type="drilling" subtype="18" side="4" x="9" y="598" xo="9" yo="64" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="27" type="drilling" subtype="15" side="4" x="9" y="96" xo="9" yo="96" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="28" type="drilling" subtype="5" side="6" x="1050" y="96" xo="34" yo="96" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="29" type="drilling" subtype="18" side="4" x="9" y="64" xo="9" yo="64" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="30" type="drilling" subtype="15" side="4" x="9" y="331" xo="9" yo="331.0" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="31" type="drilling" subtype="5" side="6" x="1050" y="331" xo="34" yo="331.0" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="110" material="1" barcode="" amount="1" width="429" height="731" description="Hy4" slidingfilling="0" timestamp="1612137196" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <operations>
+          <operation id="1" type="drilling" subtype="12" side="2" x="9.0" y="682" xo="9.0" yo="50.0" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
+          <operation id="2" type="drilling" subtype="18" side="2" x="9.0" y="650" xo="9.0" yo="82" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="3" type="drilling" subtype="12" side="2" x="9.0" y="120.0" xo="9.0" yo="120.0" xl="0" yl="0" d="4.5" depth="34" millD="0"/>
+          <operation id="4" type="drilling" subtype="18" side="2" x="9.0" y="152" xo="9.0" yo="152" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="5" type="drilling" subtype="12" side="2" x="9" y="401" xo="9" yo="331.0" xl="0" yl="h" d="4.5" depth="34" millD="0"/>
+          <operation id="6" type="drilling" subtype="2" side="6" x="64.0" y="723" xo="64.0" yo="9.0" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="7" type="drilling" subtype="17" side="6" x="96" y="723" xo="96" yo="9.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="8" type="drilling" subtype="2" side="6" x="368" y="723" xo="62.0" yo="9.0" xl="w" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="9" type="drilling" subtype="17" side="6" x="400" y="723" xo="30.0" yo="9.0" xl="w" yl="h" d="8" depth="12.0" millD="0"/>
+          <operation id="10" type="drilling" subtype="2" side="6" x="64" y="79" xo="64" yo="79" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="11" type="drilling" subtype="17" side="6" x="96" y="79" xo="96" yo="79" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="12" type="drilling" subtype="2" side="6" x="368" y="79" xo="368" yo="79" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
+          <operation id="13" type="drilling" subtype="17" side="6" x="400" y="79" xo="400" yo="79" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="14" type="drilling" subtype="18" side="4" x="9" y="606" xo="9" yo="126.0" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="15" type="drilling" subtype="18" side="4" x="9" y="126.0" xo="9" yo="126.0" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="16" type="drilling" subtype="18" side="4" x="9" y="366" xo="9" yo="366.0" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="17" type="drilling" subtype="15" side="4" x="9" y="334" xo="9" yo="398.0" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="18" type="drilling" subtype="5" side="6" x="378" y="334" xo="52.0" yo="398.0" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
         </operations>
       </detail>
     </details>
