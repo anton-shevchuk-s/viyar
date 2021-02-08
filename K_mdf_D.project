@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="WINDOWS-1251"?>
-<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-01-31 21:10:25" orderDate="" productFilter="false">
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-02-08 01:57:45" orderDate="" productFilter="false">
   <viyar version="24">
     <user name="Шевчук Антон Сергеевич" phone="0663367434" email="84@ua.fm" uuid="" fileName="K_mdf_D" ZakazBazar=""/>
     <order delivery="d" uuid=""/>
     <constructor id="dsp" fromTumbariki="" site="viyar.ua" city="kiev" xnc="1"/>
     <materials>
-      <material id="1" type="sheet" offcut_l="10" offcut_t="10" offcut_r="5" offcut_b="5" userOffcut="0" directCut="0" article="72928" typeMat="mdf" guid="347079" oldGuid="347079" uuid="e595716a-5190-11ea-9f85-005056b13af7" name="МДФ AGT 3014 Облако серый супермат/двухсторонний 2800х1220х18мм" width="2800" height="1220" thickness="18" isCliental="0">
+      <material id="1" type="sheet" offcut_l="10" offcut_t="10" offcut_r="5" offcut_b="5" userOffcut="1" directCut="0" article="72928" typeMat="mdf" guid="347079" oldGuid="347079" uuid="e595716a-5190-11ea-9f85-005056b13af7" name="МДФ AGT 3014 Облако серый супермат/двухсторонний 2800х1220х18мм" width="2800" height="1220" thickness="18" isCliental="0">
         <parts/>
       </material>
       <material id="2" type="band" article="74093" guid="377758" oldGuid="377758" uuid="41b1918e-5e24-11ea-9f85-005056b13af7" name="Кромка 3014 ABS Облако серый матовый 22*1мм (100 м.п.) AGT" height="22" thickness="1" markingColor="rgb(0,255,0)"/>
@@ -302,6 +302,70 @@
           <operation id="8" type="drilling" subtype="2" side="1" x="229" y="109" xo="229" yo="109" xl="0" yl="0" d="5" depth="11.5" millD="0"/>
           <operation id="9" type="drilling" subtype="17" side="1" x="261" y="109" xo="261" yo="109" xl="0" yl="0" d="8" depth="12" millD="0"/>
         </operations>
+      </detail>
+      <detail id="24" material="1" barcode="" amount="1" width="473" height="500" description="Wy0" slidingfilling="0" timestamp="1612727349" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="25" material="1" barcode="" amount="1" width="869" height="500" description="Wy1" slidingfilling="0" timestamp="1612727375" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="26" material="1" barcode="" amount="1" width="480" height="638" description="Wx0" slidingfilling="0" timestamp="1612727444" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="27" material="1" barcode="" amount="2" width="456" height="78" description="Wx3" slidingfilling="0" timestamp="1612728826" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="28" material="1" barcode="" amount="1" width="62" height="380" description="Wy3" slidingfilling="0" timestamp="1612728895" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="29" material="1" barcode="" amount="1" width="473" height="98" description="Wz1" slidingfilling="0" timestamp="1612728986" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="30" material="1" barcode="" amount="1" width="478.0" height="620.0" description="Wx1" slidingfilling="0" timestamp="1612738080" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
+      </detail>
+      <detail id="31" material="1" barcode="" amount="1" width="869.0" height="118.0" description="Wy2" slidingfilling="0" timestamp="1612738233" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+        <edges joint="0">
+          <left type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <top type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <right type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <bottom type="" param="0" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+        </edges>
       </detail>
     </details>
     <products/>
