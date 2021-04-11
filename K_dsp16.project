@@ -1,192 +1,192 @@
 <?xml version="1.0" encoding="WINDOWS-1251"?>
-<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-02-07 14:31:27" orderDate="" productFilter="false">
-  <viyar version="24">
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-04-08 17:35:54" orderDate="" productFilter="false">
+  <viyar version="26">
     <user name="Шевчук Антон Сергеевич" phone="0663367434" email="84@ua.fm" uuid="" fileName="K_dsp16" ZakazBazar=""/>
     <order delivery="d" uuid=""/>
-    <constructor id="dsp" fromTumbariki="" site="viyar.ua" city="kiev" xnc="1"/>
+    <constructor id="dsp" fromTumbariki="" tumbarikiKitchenName="" site="viyar.ua" city="kiev" xnc="1"/>
     <materials>
       <material id="1" type="sheet" offcut_l="10" offcut_t="10" offcut_r="10" offcut_b="10" userOffcut="0" directCut="0" article="28848" typeMat="dsp" guid="72624" oldGuid="72624" uuid="de902725-138d-11e6-83c4-005056b13af7" name="ДСП Kronospan 0162 PE Серый графит 2800x2070x16 мм" width="2800" height="2070" thickness="16" isCliental="0">
         <parts/>
       </material>
-      <material id="2" type="band" article="55969" guid="122312" oldGuid="122312" uuid="642806a5-ed69-11e8-ae64-005056b13af7" name="95740 Кромка ABS Темно-серый РЕ414 22х0,4мм (300 м.п.) REHAU" height="22" thickness="0.5" markingColor="rgb(255,0,0)"/>
+      <material id="2" type="band" article="55969" guid="122312" oldGuid="122312" uuid="642806a5-ed69-11e8-ae64-005056b13af7" name="95740 Кромка ABS Темно-серый РЕ414 22х0,4мм (300 м.п.) REHAU" height="22" thickness="0.4" markingColor="rgb(255,0,0)"/>
       <material id="3" type="band" article="55970" guid="122323" oldGuid="122323" uuid="e563730a-ed69-11e8-ae64-005056b13af7" name="95740 Кромка ABS Темно-серый РЕ414 23х2мм (100 м.п.) REHAU" height="23" thickness="2" markingColor="rgb(0,0,255)"/>
     </materials>
     <details edge="LazerPur" typeEdge="edge">
-      <detail id="1" material="1" barcode="" amount="1" width="828" height="489" description="EzB0" slidingfilling="0" timestamp="1611514427" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+      <detail id="1" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="828.2" height="489.2" widthFull="829" heightFull="490" description="EzB0" slidingfilling="0" timestamp="1611514427" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
-          <operation id="1" type="rabbeting" side="6" edge="2" shift="0" width="38" length="490" depth="8" closed="0" slim="0"/>
-          <operation id="2" type="rabbeting" side="6" edge="4" shift="0" width="38" length="490" depth="8" closed="0" slim="0"/>
+          <operation id="1" type="rabbeting" side="6" edge="2" shift="0" width="38" length="490" depth="8" closed="0" full="1" slim="0"/>
+          <operation id="2" type="rabbeting" side="6" edge="4" shift="0" width="38" length="490" depth="8" closed="0" full="1" slim="0"/>
         </operations>
       </detail>
-      <detail id="2" material="1" barcode="" amount="2" width="828" height="539" description="EzB1" slidingfilling="0" timestamp="1611514444" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+      <detail id="2" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="2" width="828.2" height="539.2" widthFull="829" heightFull="540" description="EzB1" slidingfilling="0" timestamp="1611514444" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
-          <operation id="1" type="rabbeting" side="6" edge="2" shift="0" width="38" length="540" depth="8" closed="0" slim="0"/>
-          <operation id="2" type="rabbeting" side="6" edge="4" shift="0" width="38" length="540" depth="8" closed="0" slim="0"/>
+          <operation id="1" type="rabbeting" side="6" edge="2" shift="0" width="38" length="540" depth="8" closed="0" full="1" slim="0"/>
+          <operation id="2" type="rabbeting" side="6" edge="4" shift="0" width="38" length="540" depth="8" closed="0" full="1" slim="0"/>
         </operations>
       </detail>
-      <detail id="3" material="1" barcode="" amount="1" width="825" height="60.5" description="EyB0" slidingfilling="0" timestamp="1611514464" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+      <detail id="3" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="825.2" height="60.6" widthFull="826" heightFull="63" description="EyB0" slidingfilling="0" timestamp="1611514464" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="4" material="1" barcode="" amount="1" width="825" height="98.5" description="EyB1" slidingfilling="0" timestamp="1611514474" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+      <detail id="4" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="825.2" height="98.6" widthFull="826" heightFull="101" description="EyB1" slidingfilling="0" timestamp="1611514474" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="5" material="1" barcode="" amount="1" width="825" height="209.5" description="EyB2" slidingfilling="0" timestamp="1611514483" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+      <detail id="5" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="825.2" height="209.6" widthFull="826" heightFull="212" description="EyB2" slidingfilling="0" timestamp="1611514483" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="6" material="1" barcode="" amount="3" width="728" height="439" description="GzB0" slidingfilling="0" timestamp="1611514743" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+      <detail id="6" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="3" width="728.2" height="439.2" widthFull="729" heightFull="440" description="GzB0" slidingfilling="0" timestamp="1611514743" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
-          <operation id="1" type="rabbeting" side="6" edge="2" shift="0" width="38" length="440" depth="8" closed="0" slim="0"/>
-          <operation id="2" type="rabbeting" side="6" edge="4" shift="0" width="38" length="440" depth="8" closed="0" slim="0"/>
+          <operation id="1" type="rabbeting" side="6" edge="2" shift="0" width="38" length="440" depth="8" closed="0" full="1" slim="0"/>
+          <operation id="2" type="rabbeting" side="6" edge="4" shift="0" width="38" length="440" depth="8" closed="0" full="1" slim="0"/>
         </operations>
       </detail>
-      <detail id="7" material="1" barcode="" amount="2" width="725" height="98.5" description="GyB0" slidingfilling="0" timestamp="1611514767" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+      <detail id="7" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="2" width="725.2" height="98.6" widthFull="726" heightFull="101" description="GyB0" slidingfilling="0" timestamp="1611514767" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="8" material="1" barcode="" amount="1" width="725" height="209.5" description="GyB2" slidingfilling="0" timestamp="1611514777" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+      <detail id="8" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="725.2" height="209.6" widthFull="726" heightFull="212" description="GyB2" slidingfilling="0" timestamp="1611514777" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="9" material="1" barcode="" amount="2" width="459" height="498" description="Sim_B" slidingfilling="0" timestamp="1611645053" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+      <detail id="9" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="2" width="459.2" height="498.2" widthFull="460" heightFull="499" description="Sim_B" slidingfilling="0" timestamp="1611645053" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="10" material="1" barcode="" amount="1" width="370" height="962" description="Sim_C" slidingfilling="0" timestamp="1611645077" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+      <detail id="10" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="370.2" height="962.2" widthFull="371" heightFull="963" description="Sim_C" slidingfilling="0" timestamp="1611645077" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="11" material="1" barcode="" amount="2" width="489" height="181" description="HzB0" slidingfilling="0" timestamp="1612646313" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+      <detail id="11" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="2" width="489.2" height="182.2" widthFull="490" heightFull="183" description="HzB0" slidingfilling="0" timestamp="1612646313" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="12" material="1" barcode="" amount="1" width="169" height="65.5" description="HyB0" slidingfilling="0" timestamp="1612646376" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+      <detail id="12" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="170.2" height="65.6" widthFull="171" heightFull="68" description="HyB0" slidingfilling="0" timestamp="1612646376" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="0" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="13" material="1" barcode="" amount="1" width="169" height="148.5" description="HyB1" slidingfilling="0" timestamp="1612646589" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+      <detail id="13" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="170.2" height="148.6" widthFull="171" heightFull="151" description="HyB1" slidingfilling="0" timestamp="1612646589" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="14" material="1" barcode="" amount="1" width="795" height="425" description="Wz3" slidingfilling="0" timestamp="1612651306" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
+      <detail id="14" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="795.2" height="425.2" widthFull="796" heightFull="426" description="Wz3" slidingfilling="0" timestamp="1612651306" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="15" material="1" barcode="" amount="2" width="317" height="425" description="Wz0" slidingfilling="0" timestamp="1612651357" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+      <detail id="15" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="2" width="317.2" height="425.2" widthFull="318" heightFull="426" description="Wz0" slidingfilling="0" timestamp="1612651357" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="16" material="1" barcode="" amount="1" width="795" height="441" description="Wz1" slidingfilling="0" timestamp="1612651380" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="16" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="795.2" height="441.2" widthFull="796" heightFull="442" description="Wz1" slidingfilling="0" timestamp="1612651380" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
-          <operation id="1" type="drilling" subtype="17" side="1" x="144.0" y="434" xo="144.0" yo="8.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
-          <operation id="2" type="drilling" subtype="17" side="1" x="290.0" y="299" xo="290.0" yo="143.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="1" type="drilling" subtype="17" side="1" x="144" y="434" xo="144" yo="8" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="2" type="drilling" subtype="17" side="1" x="290" y="299" xo="290" yo="143" xl="0" yl="h" d="8" depth="12" millD="0"/>
           <operation id="3" type="drilling" subtype="17" side="1" x="652" y="434" xo="144" yo="8" xl="w" yl="h" d="8" depth="12" millD="0"/>
           <operation id="4" type="drilling" subtype="17" side="1" x="506" y="299" xo="290" yo="143" xl="w" yl="h" d="8" depth="12" millD="0"/>
-          <operation id="5" type="drilling" subtype="2" side="1" x="398" y="164" xo="398" yo="278.0" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
-          <operation id="6" type="drilling" subtype="17" side="1" x="366" y="164" xo="366" yo="278.0" xl="0" yl="h" d="8" depth="12.0" millD="0"/>
-          <operation id="7" type="drilling" subtype="17" side="1" x="430" y="164" xo="430" yo="278.0" xl="0" yl="h" d="8" depth="12.0" millD="0"/>
+          <operation id="5" type="drilling" subtype="2" side="1" x="398" y="164" xo="398" yo="278" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
+          <operation id="6" type="drilling" subtype="17" side="1" x="366" y="164" xo="366" yo="278" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="7" type="drilling" subtype="17" side="1" x="430" y="164" xo="430" yo="278" xl="0" yl="h" d="8" depth="12" millD="0"/>
           <operation id="8" type="shapeByPattern" patternId="uShaped" edgeId="3" ext="1" shift="298" sizeH="200" sizeV="270" radius="0" edgeMaterial="2"/>
         </operations>
       </detail>
-      <detail id="17" material="1" barcode="" amount="2" width="305" height="196.5" description="Wy0" slidingfilling="0" timestamp="1612651417" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+      <detail id="17" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="2" width="305.2" height="196.6" widthFull="306" heightFull="199" description="Wy0" slidingfilling="0" timestamp="1612651417" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="18" material="1" barcode="" amount="1" width="783" height="196.5" description="Wy3" slidingfilling="0" timestamp="1612651497" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
+      <detail id="18" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="783.2" height="196.6" widthFull="784" heightFull="199" description="Wy3" slidingfilling="0" timestamp="1612651497" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="2">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
           <operation id="1" type="shapeByPattern" patternId="uShaped" edgeId="3" ext="1" shift="292" sizeH="200" sizeV="50" radius="0" edgeMaterial="3"/>
         </operations>
       </detail>
-      <detail id="19" material="1" barcode="" amount="1" width="275" height="69.5" description="WyB1.1" slidingfilling="0" timestamp="1612652948" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="19" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="275.2" height="69.6" widthFull="276" heightFull="72" description="WyB1.1" slidingfilling="0" timestamp="1612652948" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
           <operation id="1" type="drilling" subtype="15" side="4" x="8" y="52" xo="8" yo="20" xl="0" yl="h" d="8" depth="33" millD="0"/>
@@ -195,12 +195,12 @@
           <operation id="4" type="drilling" subtype="18" side="5" x="138" y="8" xo="138" yo="8" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="20" material="1" barcode="" amount="1" width="275" height="69.5" description="WyB1.2" slidingfilling="0" timestamp="1612653684" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="20" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="275.2" height="69.6" widthFull="276" heightFull="72" description="WyB1.2" slidingfilling="0" timestamp="1612653684" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
           <operation id="1" type="drilling" subtype="15" side="2" x="8" y="52" xo="8" yo="20" xl="0" yl="h" d="8" depth="33" millD="0"/>
@@ -209,12 +209,12 @@
           <operation id="4" type="drilling" subtype="18" side="5" x="138" y="8" xo="138" yo="8" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="21" material="1" barcode="" amount="1" width="199" height="69.5" description="WyB1.3" slidingfilling="0" timestamp="1612652995" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="21" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="199.2" height="69.6" widthFull="200" heightFull="72" description="WyB1.3" slidingfilling="0" timestamp="1612652995" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
           <operation id="1" type="drilling" subtype="15" side="2" x="8" y="52" xo="8" yo="20" xl="0" yl="h" d="8" depth="33" millD="0"/>
@@ -223,18 +223,18 @@
           <operation id="4" type="drilling" subtype="15" side="4" x="8" y="52" xo="8" yo="20" xl="0" yl="h" d="8" depth="33" millD="0"/>
           <operation id="5" type="drilling" subtype="5" side="6" x="166" y="52" xo="34" yo="20" xl="w" yl="h" d="15" depth="13" millD="0"/>
           <operation id="6" type="drilling" subtype="18" side="4" x="8" y="20" xo="8" yo="52" xl="0" yl="h" d="8" depth="25" millD="0"/>
-          <operation id="7" type="drilling" subtype="15" side="5" x="100.0" y="8" xo="100.0" yo="8" xl="0" yl="0" d="8" depth="33" millD="0"/>
-          <operation id="8" type="drilling" subtype="5" side="6" x="100.0" y="34" xo="100.0" yo="34" xl="0" yl="0" d="15" depth="13" millD="0"/>
+          <operation id="7" type="drilling" subtype="15" side="5" x="100" y="8" xo="100" yo="8" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="8" type="drilling" subtype="5" side="6" x="100" y="34" xo="100" yo="34" xl="0" yl="0" d="15" depth="13" millD="0"/>
           <operation id="9" type="drilling" subtype="18" side="5" x="68" y="8" xo="68" yo="8" xl="0" yl="0" d="8" depth="25" millD="0"/>
           <operation id="10" type="drilling" subtype="18" side="5" x="132" y="8" xo="132" yo="8" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="22" material="1" barcode="" amount="1" width="283.5" height="69.5" description="WxB1.1" slidingfilling="0" timestamp="1612653043" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="22" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="283.6" height="69.6" widthFull="286" heightFull="72" description="WxB1.1" slidingfilling="0" timestamp="1612653043" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
-          <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
           <operation id="1" type="drilling" subtype="2" side="1" x="8" y="52" xo="8" yo="20" xl="0" yl="h" d="5" depth="11.5" millD="0"/>
@@ -244,12 +244,12 @@
           <operation id="5" type="drilling" subtype="18" side="5" x="143" y="8" xo="143" yo="8" xl="0" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="23" material="1" barcode="" amount="1" width="283.5" height="69.5" description="WxB1.2" slidingfilling="0" timestamp="1612653876" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+      <detail id="23" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="283.6" height="69.6" widthFull="286" heightFull="72" description="WxB1.2" slidingfilling="0" timestamp="1612653876" multiplicity="1" grain="0" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
         <edges joint="0">
-          <left type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="2" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
         <operations>
           <operation id="1" type="drilling" subtype="2" side="1" x="278" y="52" xo="8" yo="20" xl="w" yl="h" d="5" depth="11.5" millD="0"/>
@@ -259,20 +259,20 @@
           <operation id="5" type="drilling" subtype="18" side="5" x="143" y="8" xo="143" yo="8" xl="w" yl="0" d="8" depth="25" millD="0"/>
         </operations>
       </detail>
-      <detail id="24" material="1" barcode="" amount="1" width="245.0" height="110.0" description="HyB0F" slidingfilling="0" timestamp="1612697419" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+      <detail id="24" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="245" height="110" widthFull="249" heightFull="114" description="HyB0F" slidingfilling="0" timestamp="1612697419" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
-      <detail id="25" material="1" barcode="" amount="1" width="245.0" height="186.0" description="HyB1F" slidingfilling="0" timestamp="1612697465" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
+      <detail id="25" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="245" height="186" widthFull="249" heightFull="190" description="HyB1F" slidingfilling="0" timestamp="1612697465" multiplicity="1" grain="0" decoratedSide="" marker="0" BHXAvailable="false" machineCode="0">
         <edges joint="0">
-          <left type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <top type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <right type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
-          <bottom type="kromka" param="3" cut="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <left type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
         </edges>
       </detail>
     </details>
