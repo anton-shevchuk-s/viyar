@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<project currency="грн" version="1" costOperation="0" costMaterial="0" cost="0" date="2021-04-14 01:56:14" orderDate="" productFilter="false">
+  <viyar version="26">
+    <user name="Шевчук Антон Сергеевич" phone="0663367434" email="84@ua.fm" uuid="" fileName="B_mdf_OAK" ZakazBazar=""/>
+    <order delivery="d" uuid=""/>
+    <constructor id="dsp" fromTumbariki="" tumbarikiKitchenName="" site="viyar.ua" city="kiev" xnc="1"/>
+    <materials>
+      <material id="1" type="sheet" offcut_l="20" offcut_t="20" offcut_r="20" offcut_b="20" userOffcut="0" directCut="0" article="69059" typeMat="shponirovanaya_plita" guid="241020" oldGuid="241020" uuid="a8ffb7f0-1063-11ea-a56a-005056b13af7" name="МДФ Дуб Классический Тангентал 2800х1300х18-18,5 мм" width="2800" height="1300" thickness="18" isCliental="0">
+        <parts/>
+      </material>
+      <material id="2" type="band" article="69615" guid="257195" oldGuid="257195" uuid="d2f916a2-1ce8-11ea-a56a-005056b13af7" name="Кромка Дуб 22х1мм" height="22" thickness="1" markingColor="rgb(0,255,0)"/>
+      <material id="3" type="band" article="69616" guid="257198" oldGuid="257198" uuid="72cbb18e-1ce9-11ea-a56a-005056b13af7" name="Кромка Дуб 22х2мм" height="22" thickness="2" markingColor="rgb(0,0,255)"/>
+    </materials>
+    <details edge="LazerPur" typeEdge="edge">
+      <detail id="1" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="322" height="169" widthFull="324" heightFull="172" description="Vz0" slidingfilling="0" timestamp="1611589746" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="324" height="172"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="324" height="172"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="324" height="172"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="324" height="172"/>
+          <operation id="5" type="drilling" subtype="18" side="2" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="6" type="drilling" subtype="18" side="2" x="9" y="136" xo="9" yo="136" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="7" type="drilling" subtype="18" side="4" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="8" type="drilling" subtype="18" side="4" x="9" y="136" xo="9" yo="136" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="9" type="drilling" subtype="17" side="1" x="162" y="161" xo="162" yo="11.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="10" type="drilling" subtype="17" side="1" x="130" y="161" xo="130" yo="11" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="11" type="drilling" subtype="17" side="1" x="194" y="161" xo="194" yo="11" xl="0" yl="h" d="8" depth="12" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="2" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="322" height="149" widthFull="324" heightFull="152" description="Vz1" slidingfilling="0" timestamp="1611589768" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="324" height="152"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="324" height="152"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="324" height="152"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="324" height="152"/>
+          <operation id="5" type="drilling" subtype="18" side="2" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="6" type="drilling" subtype="18" side="2" x="9" y="120" xo="9" yo="120" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="7" type="drilling" subtype="18" side="4" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="8" type="drilling" subtype="18" side="4" x="9" y="120" xo="9" yo="120" xl="0" yl="0" d="8" depth="25" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="3" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="322" height="169" widthFull="324" heightFull="172" description="Vz2" slidingfilling="0" timestamp="1611589789" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="324" height="172"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="324" height="172"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="324" height="172"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="324" height="172"/>
+          <operation id="5" type="drilling" subtype="18" side="2" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="6" type="drilling" subtype="18" side="2" x="9" y="136" xo="9" yo="136" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="7" type="drilling" subtype="18" side="4" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="8" type="drilling" subtype="18" side="4" x="9" y="136" xo="9" yo="136" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="9" type="drilling" subtype="17" side="1" x="162" y="153" xo="162" yo="19.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="10" type="drilling" subtype="17" side="1" x="130" y="153" xo="130" yo="19" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="11" type="drilling" subtype="17" side="1" x="194" y="153" xo="194" yo="19" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="12" type="drilling" subtype="17" side="6" x="146" y="161" xo="146" yo="11.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="13" type="drilling" subtype="17" side="6" x="114" y="161" xo="114" yo="11" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="14" type="drilling" subtype="17" side="6" x="178" y="161" xo="178" yo="11" xl="0" yl="h" d="8" depth="12" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="4" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="322" height="169" widthFull="324" heightFull="172" description="Vz3" slidingfilling="0" timestamp="1611589820" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="324" height="172"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="324" height="172"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="324" height="172"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="324" height="172"/>
+          <operation id="5" type="drilling" subtype="18" side="2" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="6" type="drilling" subtype="18" side="2" x="9" y="136" xo="9" yo="136" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="7" type="drilling" subtype="18" side="4" x="9" y="40" xo="9" yo="40" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="8" type="drilling" subtype="18" side="4" x="9" y="136" xo="9" yo="136" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="9" type="drilling" subtype="17" side="6" x="162" y="153" xo="162" yo="19.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="10" type="drilling" subtype="17" side="6" x="130" y="153" xo="130" yo="19" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="11" type="drilling" subtype="17" side="6" x="194" y="153" xo="194" yo="19" xl="0" yl="h" d="8" depth="12" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="5" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="468" height="322" widthFull="470" heightFull="324" description="Vy0" slidingfilling="0" timestamp="1611589859" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="470" height="324"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="470" height="324"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="470" height="324"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="470" height="324"/>
+          <operation id="5" type="drilling" subtype="15" side="2" x="9" y="162" xo="9" yo="162" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="6" type="drilling" subtype="5" side="6" x="34" y="162" xo="34" yo="162" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="7" type="drilling" subtype="18" side="2" x="9" y="130" xo="9" yo="130" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="8" type="drilling" subtype="18" side="2" x="9" y="194" xo="9" yo="194" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="9" type="drilling" subtype="15" side="4" x="9" y="178" xo="9" yo="178" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="10" type="drilling" subtype="5" side="6" x="436" y="178" xo="34" yo="178" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="11" type="drilling" subtype="18" side="4" x="9" y="146" xo="9" yo="146" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="12" type="drilling" subtype="18" side="4" x="9" y="210" xo="9" yo="210" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="13" type="drilling" subtype="15" side="5" x="32" y="9" xo="32" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="14" type="drilling" subtype="5" side="6" x="32" y="34" xo="32" yo="34" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="15" type="drilling" subtype="18" side="5" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="16" type="drilling" subtype="15" side="5" x="438" y="9" xo="32" yo="9" xl="w" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="17" type="drilling" subtype="5" side="6" x="438" y="34" xo="32" yo="34" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="18" type="drilling" subtype="18" side="5" x="406" y="9" xo="64" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="19" type="drilling" subtype="15" side="3" x="32" y="9" xo="32" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="20" type="drilling" subtype="5" side="6" x="32" y="290" xo="32" yo="34" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="21" type="drilling" subtype="18" side="3" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="22" type="drilling" subtype="15" side="3" x="438" y="9" xo="32" yo="9" xl="w" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="23" type="drilling" subtype="5" side="6" x="438" y="290" xo="32" yo="34" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="24" type="drilling" subtype="18" side="3" x="406" y="9" xo="64" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="6" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="214" height="322" widthFull="216" heightFull="324" description="Vy1" slidingfilling="0" timestamp="1611589869" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="216" height="324"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="216" height="324"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="216" height="324"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="216" height="324"/>
+          <operation id="5" type="drilling" subtype="15" side="2" x="9" y="162" xo="9" yo="162" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="6" type="drilling" subtype="5" side="6" x="34" y="162" xo="34" yo="162" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="7" type="drilling" subtype="18" side="2" x="9" y="130" xo="9" yo="130" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="8" type="drilling" subtype="18" side="2" x="9" y="194" xo="9" yo="194" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="9" type="drilling" subtype="15" side="4" x="9" y="162" xo="9" yo="162" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="10" type="drilling" subtype="5" side="6" x="182" y="162" xo="34" yo="162" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="11" type="drilling" subtype="18" side="4" x="9" y="130" xo="9" yo="130" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="12" type="drilling" subtype="18" side="4" x="9" y="194" xo="9" yo="194" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="13" type="drilling" subtype="15" side="3" x="32" y="9" xo="32" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="14" type="drilling" subtype="5" side="6" x="32" y="290" xo="32" yo="34" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="15" type="drilling" subtype="18" side="3" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="16" type="drilling" subtype="15" side="5" x="32" y="9" xo="32" yo="9" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="17" type="drilling" subtype="5" side="6" x="32" y="34" xo="32" yo="34" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="18" type="drilling" subtype="18" side="5" x="64" y="9" xo="64" yo="9" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="19" type="drilling" subtype="15" side="3" x="196" y="9" xo="20" yo="9" xl="w" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="20" type="drilling" subtype="5" side="6" x="196" y="290" xo="20" yo="34" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="21" type="drilling" subtype="18" side="3" x="164" y="9" xo="52" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="22" type="drilling" subtype="15" side="5" x="196" y="9" xo="20" yo="9" xl="w" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="23" type="drilling" subtype="5" side="6" x="196" y="34" xo="20" yo="34" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="24" type="drilling" subtype="18" side="5" x="164" y="9" xo="52" yo="9" xl="w" yl="0" d="8" depth="25" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="7" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="736" height="318" widthFull="740" heightFull="322" description="V0" slidingfilling="0" timestamp="1611589899" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="false" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="740" height="322"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="740" height="322"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="740" height="322"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="740" height="322"/>
+          <operation id="5" type="drilling" subtype="7" side="6" x="80" y="299.5" xo="80" yo="22.5" xl="0" yl="h" d="35" depth="13" millD="0"/>
+          <operation id="6" type="drilling" subtype="7" side="6" x="660" y="299.5" xo="80" yo="22.5" xl="w" yl="h" d="35" depth="13" millD="0"/>
+          <operation id="7" type="drilling" subtype="1" side="6" x="57.5" y="290" xo="57.5" yo="32.0" xl="0" yl="h" d="2" depth="2" millD="0"/>
+          <operation id="8" type="drilling" subtype="1" side="6" x="102.5" y="290" xo="102.5" yo="32" xl="0" yl="h" d="2" depth="2" millD="0"/>
+          <operation id="9" type="drilling" subtype="1" side="6" x="682.5" y="290" xo="57.5" yo="32" xl="w" yl="h" d="2" depth="2" millD="0"/>
+          <operation id="10" type="drilling" subtype="1" side="6" x="637.5" y="290" xo="102.5" yo="32" xl="w" yl="h" d="2" depth="2" millD="0"/>
+          <operation id="11" type="grooving" side="5" subtype="0" x="10" y="7.7" bindH="false" bindV="false" xa="8" ya="5.7" width="3.2" length="720" depth="14" closed="0" full="0" millD="0" article="" freza="0" BHXAvailable="false"/>
+        </operations>
+      </detail>
+      <detail id="8" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="496" height="636" widthFull="500" heightFull="640" description="W6" slidingfilling="0" timestamp="1611593821" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="500" height="640"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="500" height="640"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="500" height="640"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="500" height="640"/>
+          <operation id="5" type="drilling" subtype="17" side="6" x="84" y="9" xo="84" yo="9" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="6" type="drilling" subtype="17" side="6" x="52" y="9" xo="52" yo="9" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="7" type="drilling" subtype="17" side="6" x="436" y="9" xo="64.0" yo="9" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="8" type="drilling" subtype="17" side="6" x="468" y="9" xo="32" yo="9" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="9" type="drilling" subtype="17" side="6" x="485" y="82" xo="15.0" yo="82" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="10" type="drilling" subtype="17" side="6" x="485" y="50" xo="15" yo="50" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="11" type="drilling" subtype="17" side="6" x="485" y="456" xo="15.0" yo="456" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="12" type="drilling" subtype="17" side="6" x="485" y="488" xo="15" yo="488" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="13" type="drilling" subtype="17" side="6" x="29" y="580" xo="29" yo="60.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="14" type="drilling" subtype="17" side="6" x="29" y="612" xo="29" yo="28" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="15" type="drilling" subtype="17" side="6" x="29" y="548" xo="29" yo="92" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="16" type="drilling" subtype="4" side="6" x="462" y="612" xo="38" yo="28" xl="w" yl="h" d="10" depth="14" millD="0"/>
+          <operation id="17" type="drilling" subtype="4" side="6" x="430" y="612" xo="70" yo="28" xl="w" yl="h" d="10" depth="14" millD="0"/>
+          <operation id="18" type="drilling" subtype="4" side="6" x="462" y="548" xo="462" yo="548" xl="0" yl="0" d="10" depth="14" millD="0"/>
+          <operation id="19" type="drilling" subtype="4" side="6" x="430" y="548" xo="430" yo="548" xl="0" yl="0" d="10" depth="14" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="9" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="1362" height="471" widthFull="1364" heightFull="474" description="Wz0" slidingfilling="0" timestamp="1612422775" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+        <edges joint="0">
+          <left type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="1364" height="474"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="1364" height="474"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="1364" height="474"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="1364" height="474"/>
+          <operation id="5" type="drilling" subtype="15" side="4" x="9" y="84" xo="9" yo="84" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="6" type="drilling" subtype="5" side="1" x="1330" y="84" xo="34" yo="84" xl="w" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="7" type="drilling" subtype="18" side="4" x="9" y="52" xo="9" yo="52" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="8" type="drilling" subtype="15" side="2" x="9" y="84" xo="9" yo="84" xl="0" yl="0" d="8" depth="33" millD="0"/>
+          <operation id="9" type="drilling" subtype="5" side="1" x="34" y="84" xo="34" yo="84" xl="0" yl="0" d="15" depth="13.8" millD="0"/>
+          <operation id="10" type="drilling" subtype="18" side="2" x="9" y="52" xo="9" yo="52" xl="0" yl="0" d="8" depth="25" millD="0"/>
+          <operation id="11" type="drilling" subtype="15" side="4" x="9" y="410" xo="9" yo="64" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="12" type="drilling" subtype="5" side="1" x="1330" y="410" xo="34" yo="64" xl="w" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="13" type="drilling" subtype="18" side="4" x="9" y="442" xo="9" yo="32" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="14" type="drilling" subtype="15" side="2" x="9" y="410" xo="9" yo="64" xl="0" yl="h" d="8" depth="33" millD="0"/>
+          <operation id="15" type="drilling" subtype="5" side="1" x="34" y="410" xo="34" yo="64" xl="0" yl="h" d="15" depth="13.8" millD="0"/>
+          <operation id="16" type="drilling" subtype="18" side="2" x="9" y="442" xo="9" yo="32" xl="0" yl="h" d="8" depth="25" millD="0"/>
+          <operation id="17" type="drilling" subtype="17" side="1" x="52" y="459" xo="52" yo="15.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="18" type="drilling" subtype="17" side="1" x="20" y="459" xo="20" yo="15" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="19" type="drilling" subtype="17" side="1" x="395" y="459" xo="395" yo="15.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="20" type="drilling" subtype="17" side="1" x="427" y="459" xo="427" yo="15" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="21" type="drilling" subtype="17" side="1" x="1284" y="459" xo="80.0" yo="15.0" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="22" type="drilling" subtype="17" side="1" x="1316" y="459" xo="48" yo="15" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="23" type="drilling" subtype="17" side="1" x="573" y="459" xo="791.0" yo="15.0" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="24" type="drilling" subtype="17" side="1" x="541" y="459" xo="823" yo="15" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="25" type="drilling" subtype="17" side="1" x="929" y="459" xo="435.0" yo="15.0" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="26" type="drilling" subtype="17" side="1" x="502" y="86" xo="502" yo="86" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="27" type="drilling" subtype="17" side="1" x="502" y="54" xo="502" yo="54" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="28" type="drilling" subtype="17" side="1" x="502" y="394" xo="502" yo="80.0" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="29" type="drilling" subtype="17" side="1" x="502" y="426" xo="502" yo="48" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="30" type="grooving" side="6" subtype="0" x="32" y="228" bindH="false" bindV="false" xa="31" ya="226" width="17.6" length="1300" depth="9" radius="3" closed="0" full="0" millD="6" article="110018, 110019, 84022, 84023, 110020, 110021" freza="0" BHXAvailable="false"/>
+        </operations>
+      </detail>
+      <detail id="10" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="736" height="169" widthFull="740" heightFull="172" description="Vx0" slidingfilling="0" timestamp="1612724052" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="740" height="172"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="740" height="172"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="740" height="172"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="740" height="172"/>
+          <operation id="5" type="drilling" subtype="17" side="1" x="9" y="132" xo="9" yo="40" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="6" type="drilling" subtype="17" side="1" x="9" y="36" xo="9" yo="136" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="7" type="drilling" subtype="17" side="1" x="263" y="132" xo="263" yo="40" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="8" type="drilling" subtype="17" side="1" x="263" y="52" xo="263" yo="120" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="9" type="drilling" subtype="17" side="1" x="497" y="132" xo="497" yo="40" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="10" type="drilling" subtype="17" side="1" x="497" y="36" xo="497" yo="136" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="11" type="drilling" subtype="17" side="1" x="731" y="132" xo="9" yo="40" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="12" type="drilling" subtype="17" side="1" x="731" y="36" xo="9" yo="136" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="13" type="drilling" subtype="17" side="1" x="50" y="11" xo="50" yo="11" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="14" type="drilling" subtype="17" side="1" x="82" y="11" xo="82" yo="11" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="15" type="drilling" subtype="17" side="1" x="456" y="11" xo="456" yo="11" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="16" type="drilling" subtype="17" side="1" x="424" y="11" xo="424" yo="11" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="17" type="drilling" subtype="17" side="1" x="702" y="19" xo="38.0" yo="19" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="18" type="drilling" subtype="17" side="1" x="670" y="19" xo="70" yo="19" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="19" type="drilling" subtype="17" side="1" x="540" y="19" xo="200.0" yo="19" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="20" type="drilling" subtype="17" side="1" x="572" y="19" xo="168" yo="19" xl="w" yl="0" d="8" depth="12" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="11" tumbarikiConstructionName="" tumbarikiConstructionId="0" tumbarikiDetailName="" tumbarikiDetailId="0" material="1" barcode="" amount="1" width="736" height="169" widthFull="740" heightFull="172" description="Vx1" slidingfilling="0" timestamp="1612724609" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="2" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="740" height="172"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="740" height="172"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="740" height="172"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="740" height="172"/>
+          <operation id="5" type="drilling" subtype="17" side="1" x="731" y="132" xo="9" yo="40" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="6" type="drilling" subtype="17" side="1" x="731" y="36" xo="9" yo="136" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="7" type="drilling" subtype="17" side="1" x="477" y="132" xo="263" yo="40" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="8" type="drilling" subtype="17" side="1" x="477" y="52" xo="263" yo="120" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="9" type="drilling" subtype="17" side="1" x="243" y="132" xo="497" yo="40" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="10" type="drilling" subtype="17" side="1" x="243" y="36" xo="497" yo="136" xl="w" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="11" type="drilling" subtype="17" side="1" x="9" y="132" xo="9" yo="40" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="12" type="drilling" subtype="17" side="1" x="9" y="36" xo="9" yo="136" xl="0" yl="h" d="8" depth="12" millD="0"/>
+          <operation id="13" type="drilling" subtype="17" side="1" x="690" y="11" xo="50.0" yo="11" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="14" type="drilling" subtype="17" side="1" x="658" y="11" xo="82" yo="11" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="15" type="drilling" subtype="17" side="1" x="284" y="11" xo="456.0" yo="11" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="16" type="drilling" subtype="17" side="1" x="316" y="11" xo="424" yo="11" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="17" type="drilling" subtype="17" side="1" x="38" y="19" xo="38" yo="19" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="18" type="drilling" subtype="17" side="1" x="70" y="19" xo="70" yo="19" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="19" type="drilling" subtype="17" side="1" x="200" y="19" xo="200" yo="19" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="20" type="drilling" subtype="17" side="1" x="168" y="19" xo="168" yo="19" xl="0" yl="0" d="8" depth="12" millD="0"/>
+        </operations>
+      </detail>
+      <detail id="12" tumbarikiConstructionName="" tumbarikiConstructionId="" tumbarikiDetailName="" tumbarikiDetailId="" material="1" barcode="" amount="2" width="866" height="276" widthFull="870" heightFull="280" description="W1" slidingfilling="0" timestamp="1618353992" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+        <edges joint="0">
+          <left type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="870" height="280"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="870" height="280"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="870" height="280"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="870" height="280"/>
+          <operation id="5" type="grooving" side="3" subtype="0" x="10" y="7.7" bindH="false" bindV="false" xa="8" ya="5.7" width="3.2" length="854" depth="14" closed="0" full="0" millD="0" article="" freza="0" BHXAvailable="false"/>
+        </operations>
+      </detail>
+      <detail id="13" tumbarikiConstructionName="" tumbarikiConstructionId="" tumbarikiDetailName="" tumbarikiDetailId="" material="1" barcode="" amount="2" width="396" height="276" widthFull="400" heightFull="280" description="W3" slidingfilling="0" timestamp="1618354022" multiplicity="1" grain="1" decoratedSide="" marker="1" BHXAvailable="false" machineCode="2">
+        <edges joint="0">
+          <left type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="400" height="280"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="400" height="280"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="400" height="280"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="400" height="280"/>
+          <operation id="5" type="grooving" side="3" subtype="0" x="10" y="7.7" bindH="false" bindV="false" xa="8" ya="5.7" width="3.2" length="380" depth="14" closed="0" full="0" millD="0" article="" freza="0" BHXAvailable="false"/>
+        </operations>
+      </detail>
+      <detail id="14" tumbarikiConstructionName="" tumbarikiConstructionId="" tumbarikiDetailName="" tumbarikiDetailId="" material="1" barcode="" amount="1" width="96" height="632" widthFull="100" heightFull="636" description="W5" slidingfilling="0" timestamp="1618354055" multiplicity="1" grain="1" decoratedSide="" marker="0" BHXAvailable="true" machineCode="1">
+        <edges joint="0">
+          <left type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <top type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <right type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+          <bottom type="kromka" param="3" cut="0" cutId="0" drop="0" curv="0" pur="1" chamfer45="0"/>
+        </edges>
+        <plays>
+          <face grinding="1" beits="0">
+            <cover type="varnish"/>
+          </face>
+          <rear grinding="1" beits="0">
+            <cover type="varnish"/>
+          </rear>
+        </plays>
+        <operations>
+          <operation id="1" type="playing" grain="1" subtype="grinding" grinding="1" width="100" height="636"/>
+          <operation id="2" type="playing" grain="1" subtype="cover" cover="varnish" beits="0" width="100" height="636"/>
+          <operation id="3" type="playing" grain="6" subtype="grinding" grinding="1" width="100" height="636"/>
+          <operation id="4" type="playing" grain="6" subtype="cover" cover="varnish" beits="0" width="100" height="636"/>
+          <operation id="5" type="drilling" subtype="17" side="6" x="9.0" y="46.0" xo="9.0" yo="46.0" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="6" type="drilling" subtype="17" side="6" x="9" y="78" xo="9" yo="78" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="7" type="drilling" subtype="17" side="6" x="9" y="348.0" xo="9" yo="348.0" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="8" type="drilling" subtype="17" side="6" x="9" y="380" xo="9" yo="380" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="9" type="drilling" subtype="17" side="6" x="9" y="576.0" xo="9" yo="576.0" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="10" type="drilling" subtype="17" side="6" x="9" y="608" xo="9" yo="608" xl="0" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="11" type="drilling" subtype="17" side="6" x="91" y="46" xo="9" yo="46" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="12" type="drilling" subtype="17" side="6" x="91" y="78" xo="9" yo="78" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="13" type="drilling" subtype="17" side="6" x="91" y="348" xo="9" yo="348" xl="w" yl="0" d="8" depth="12" millD="0"/>
+          <operation id="14" type="drilling" subtype="17" side="6" x="91" y="380" xo="9" yo="380" xl="w" yl="0" d="8" depth="12" millD="0"/>
+        </operations>
+      </detail>
+    </details>
+    <products/>
+  </viyar>
+</project>
